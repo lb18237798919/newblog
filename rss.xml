@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://lb18237798919.github.io/newblog/myblog/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://lb18237798919.github.io/newblog/newblog/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://lb18237798919.github.io/newblog/myblog/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://lb18237798919.github.io/newblog/newblog/rss.xml" rel="self" type="application/rss+xml"/>
     <title>blog</title>
-    <link>https://lb18237798919.github.io/newblog/myblog/</link>
+    <link>https://lb18237798919.github.io/newblog/newblog/</link>
     <description>开源工具、效率方法的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Dec 2024 10:00:03 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Dec 2024 10:00:03 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Dec 2024 10:28:29 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Dec 2024 10:28:29 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>樱桃</category>
@@ -17,21 +17,21 @@
     <category>蔬菜</category>
     <item>
       <title>介绍页</title>
-      <link>https://lb18237798919.github.io/newblog/myblog/intro.html</link>
-      <guid>https://lb18237798919.github.io/newblog/myblog/intro.html</guid>
-      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">介绍页</source>
+      <link>https://lb18237798919.github.io/newblog/newblog/intro.html</link>
+      <guid>https://lb18237798919.github.io/newblog/newblog/intro.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/newblog/rss.xml">介绍页</source>
       <description>介绍页 欢迎来到我的博客</description>
       <pubDate>Mon, 02 Dec 2024 08:17:30 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 介绍页</h1>
 <p>欢迎来到我的博客</p>
 ]]></content:encoded>
-      <enclosure url="https://lb18237798919.github.io/newblog/myblog/assets/images/cover3.jpg" type="image/jpeg"/>
+      <enclosure url="https://lb18237798919.github.io/newblog/newblog/assets/images/cover3.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>樱桃</title>
-      <link>https://lb18237798919.github.io/newblog/myblog/posts/cherry.html</link>
-      <guid>https://lb18237798919.github.io/newblog/myblog/posts/cherry.html</guid>
-      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">樱桃</source>
+      <link>https://lb18237798919.github.io/newblog/newblog/posts/cherry.html</link>
+      <guid>https://lb18237798919.github.io/newblog/newblog/posts/cherry.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/newblog/rss.xml">樱桃</source>
       <description>樱桃 标题 2 这里是内容。 标题 3 这里是内容。</description>
       <category>樱桃</category>
       <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
@@ -44,9 +44,9 @@
     </item>
     <item>
       <title>火龙果</title>
-      <link>https://lb18237798919.github.io/newblog/myblog/posts/dragonfruit.html</link>
-      <guid>https://lb18237798919.github.io/newblog/myblog/posts/dragonfruit.html</guid>
-      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">火龙果</source>
+      <link>https://lb18237798919.github.io/newblog/newblog/posts/dragonfruit.html</link>
+      <guid>https://lb18237798919.github.io/newblog/newblog/posts/dragonfruit.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/newblog/rss.xml">火龙果</source>
       <description>火龙果 标题 2 这里是内容。 标题 3 这里是内容。</description>
       <category>火龙果</category>
       <category>水果</category>
@@ -60,9 +60,9 @@
     </item>
     <item>
       <title>草莓</title>
-      <link>https://lb18237798919.github.io/newblog/myblog/posts/strawberry.html</link>
-      <guid>https://lb18237798919.github.io/newblog/myblog/posts/strawberry.html</guid>
-      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">草莓</source>
+      <link>https://lb18237798919.github.io/newblog/newblog/posts/strawberry.html</link>
+      <guid>https://lb18237798919.github.io/newblog/newblog/posts/strawberry.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/newblog/rss.xml">草莓</source>
       <description>草莓 标题 2 这里是内容。 标题 3 这里是内容。</description>
       <category>水果</category>
       <category>草莓</category>
@@ -76,9 +76,9 @@
     </item>
     <item>
       <title>番茄</title>
-      <link>https://lb18237798919.github.io/newblog/myblog/posts/tomato.html</link>
-      <guid>https://lb18237798919.github.io/newblog/myblog/posts/tomato.html</guid>
-      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">番茄</source>
+      <link>https://lb18237798919.github.io/newblog/newblog/posts/tomato.html</link>
+      <guid>https://lb18237798919.github.io/newblog/newblog/posts/tomato.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/newblog/rss.xml">番茄</source>
       <description>番茄 标题 2 这里是内容。 标题 3 这里是内容。</description>
       <category>蔬菜</category>
       <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
@@ -88,13 +88,13 @@
 <h3> 标题 3</h3>
 <p>这里是内容。</p>
 ]]></content:encoded>
-      <enclosure url="https://lb18237798919.github.io/newblog/myblog/assets/images/cover2.jpg" type="image/jpeg"/>
+      <enclosure url="https://lb18237798919.github.io/newblog/newblog/assets/images/cover2.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>01 【入门篇-介绍和安装】</title>
-      <link>https://lb18237798919.github.io/newblog/myblog/back_end/linux/01.html</link>
-      <guid>https://lb18237798919.github.io/newblog/myblog/back_end/linux/01.html</guid>
-      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">01 【入门篇-介绍和安装】</source>
+      <link>https://lb18237798919.github.io/newblog/newblog/back_end/linux/01.html</link>
+      <guid>https://lb18237798919.github.io/newblog/newblog/back_end/linux/01.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/newblog/rss.xml">01 【入门篇-介绍和安装】</source>
       <description>01 【入门篇-介绍和安装】 1.Linux课程介绍 1.1 学习方向 linux运维工程师： 维护linux的服务器（一般大型企业） linux嵌入式工程师： linux做驱动开发，或者linux的嵌入式 linux下开发项目 1.2 应用领域</description>
       <pubDate>Mon, 02 Dec 2024 08:17:30 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 01 【入门篇-介绍和安装】</h1>
@@ -283,9 +283,9 @@
     </item>
     <item>
       <title>02 【基础篇-vim编辑器 网络配置 远程登录】</title>
-      <link>https://lb18237798919.github.io/newblog/myblog/back_end/linux/02.html</link>
-      <guid>https://lb18237798919.github.io/newblog/myblog/back_end/linux/02.html</guid>
-      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">02 【基础篇-vim编辑器 网络配置 远程登录】</source>
+      <link>https://lb18237798919.github.io/newblog/newblog/back_end/linux/02.html</link>
+      <guid>https://lb18237798919.github.io/newblog/newblog/back_end/linux/02.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/newblog/rss.xml">02 【基础篇-vim编辑器 网络配置 远程登录】</source>
       <description>02 【基础篇-vim编辑器 网络配置 远程登录】 1.vi和vim编辑器 1.1 vi和vim的基本介绍 所有Linux系统都会内置vi文本编辑器 vim是vi的升级版，可以主动以字体颜色分辨语法的正确性，代码补完和编译，错误跳转等功能。 image-20220815123840409</description>
       <pubDate>Mon, 02 Dec 2024 08:17:30 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 02 【基础篇-vim编辑器 网络配置 远程登录】</h1>
@@ -1218,9 +1218,9 @@ DNS1=192.168.2.2  #这个设置成和网关一样就行</p>
     </item>
     <item>
       <title>03 【基础篇-系统管理】</title>
-      <link>https://lb18237798919.github.io/newblog/myblog/back_end/linux/03.html</link>
-      <guid>https://lb18237798919.github.io/newblog/myblog/back_end/linux/03.html</guid>
-      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">03 【基础篇-系统管理】</source>
+      <link>https://lb18237798919.github.io/newblog/newblog/back_end/linux/03.html</link>
+      <guid>https://lb18237798919.github.io/newblog/newblog/back_end/linux/03.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/newblog/rss.xml">03 【基础篇-系统管理】</source>
       <description>03 【基础篇-系统管理】 1.Linux 中的进程和服务 计算机中，一个正在执行的程序或命令，被叫做“进程”（process）。 启动之后一只存在、常驻内存的进程，一般被称作“服务”（service）。 详细操作后面说明 2.systemctl 服务管理 service 服务管理（CentOS 6 版本-了解） systemctl （CentOS 7 版本-重点掌握）</description>
       <pubDate>Mon, 02 Dec 2024 08:17:30 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 03 【基础篇-系统管理】</h1>
@@ -1564,9 +1564,9 @@ shutdown -h +10：十分钟后关机</p>
     </item>
     <item>
       <title>04 【实操篇-帮助命令 文件目录管理基础知识】</title>
-      <link>https://lb18237798919.github.io/newblog/myblog/back_end/linux/04.html</link>
-      <guid>https://lb18237798919.github.io/newblog/myblog/back_end/linux/04.html</guid>
-      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">04 【实操篇-帮助命令 文件目录管理基础知识】</source>
+      <link>https://lb18237798919.github.io/newblog/newblog/back_end/linux/04.html</link>
+      <guid>https://lb18237798919.github.io/newblog/newblog/back_end/linux/04.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/newblog/rss.xml">04 【实操篇-帮助命令 文件目录管理基础知识】</source>
       <description>04 【实操篇-帮助命令 文件目录管理基础知识】 1.帮助命令 通常linux命令都十分简单，但是有些还是有些复杂度的。比如find，ps这种命令，如果要照顾到所有的场合，可能需要非常巨大的篇幅。但是，万一用到这种偏门的场合怎么办？ 全面了解一下是非常有必要的，以便在使用的时候能够唤起记忆中最浅显的印象。然后剩下的，就可以交给类似于man 的这种命令了。Linux上的每一个命令，都会有配套的帮助文件，这远比网络上那些转来转去的信息，正确的多。 正式介绍一下下面的两个命令：</description>
       <pubDate>Mon, 02 Dec 2024 08:17:30 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 04 【实操篇-帮助命令 文件目录管理基础知识】</h1>
@@ -1719,9 +1719,9 @@ shutdown -h +10：十分钟后关机</p>
     </item>
     <item>
       <title>05【实操篇-文件目录类命令】</title>
-      <link>https://lb18237798919.github.io/newblog/myblog/back_end/linux/05.html</link>
-      <guid>https://lb18237798919.github.io/newblog/myblog/back_end/linux/05.html</guid>
-      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">05【实操篇-文件目录类命令】</source>
+      <link>https://lb18237798919.github.io/newblog/newblog/back_end/linux/05.html</link>
+      <guid>https://lb18237798919.github.io/newblog/newblog/back_end/linux/05.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/newblog/rss.xml">05【实操篇-文件目录类命令】</source>
       <description>05【实操篇-文件目录类命令】 1.pwd 显示当前工作目录的绝对路径 pwd:print working directory 打印工作目录 到现在为止，我们还不知道自己在系统的什么地方。在浏览器上，我们能够通过导航栏上的url，了解到自己在互联网上的具体坐标。相似的功能，是由pwd命令提供的，它能够输出当前的工作目录。 pwd命令是非常非常常用的命令，尤其是在一些命令提示符设置不太友好的机器上。另外，它也经常用在shell脚本中，用来判断当前的运行目录是否符合需求。</description>
       <pubDate>Mon, 02 Dec 2024 08:17:30 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 05【实操篇-文件目录类命令】</h1>
