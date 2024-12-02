@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-364ea92e","path":"/front_end/css_advanced/tailwind/","title":"Tailwind","lang":"zh-CN","frontmatter":{"title":"Tailwind","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-326764f5","path":"/professional_knowledge/computer_network/","title":"Computer Network","lang":"zh-CN","frontmatter":{"title":"Computer Network","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};
