@@ -1,38 +1,53 @@
 ---
+#博客首页设置：https://theme-hope.vuejs.press/zh/guide/blog/home.html
 home: true
-layout: BlogHome
+# layout: BlogHome
 icon: home
-title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
-heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
-projects:
-  - icon: project
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+heroImage: /dslogo.png
+heroText: blog
+tagline: 随珠和壁，明月清风
+bgImage: http://tc.seoipo.com/home-bg-1.jpg
+# heroFullScreen: true
+actions:
+  - text: 前端导航
+    link: /front_end/
+    type: primary
 
-  - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
+  - text: 后端导航
+    link: /back_end/
+    type: primary
 
-  - icon: article
-    name: 文章名称
-    desc: 文章详细描述
-    link: https://你的文章链接
+features:
+  - title: 页面开发
+    icon: network
+    details: 静态站点生成器
+    link: /web/
 
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: 自定义项目
-    desc: 自定义详细介绍
-    link: https://你的自定义链接
+  - title: 应用
+    icon: computer
+    details: 应用推荐
+    link: /apps/
 
-footer: 自定义你的页脚文字
+  - title: 专业知识
+    icon: computer
+    details: 计算机基础知识笔记
+    link: /professional_knowledge/
+
+  - title: 前端导航
+    icon: html
+    details: 前端笔记
+    link: /front_end/
+
+  - title: 后端导航
+    icon: network
+    details: 后端笔记
+    link: /back_end/
+
+  - title: 工具导航
+    icon: tool
+    details: 编程工具记录
+    link: /tool/
+
+
+#footer: 自定义你的页脚文字
 ---
-
-这是一个博客主页的案例。
-
-要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。
-
-相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home.html)。

@@ -12,12 +12,12 @@ export default defineUserConfig({
   // 网站语言，默认为中文
   lang: 'zh-CN',
   // 网站标题
-  title: 'dselegent-blog',
+  title: 'blog',
   // 网站描述
   description: '开源工具、效率方法的自我提升笔记，记录并输出一切能让自己提升的知识。',
 
   // 网站路径默认为主域名。如果网站部署在子路径下，比如 xxx.com/yyy，那么 base 应该被设置为 "/yyy/"
-  base: '/',
+  base: '/myblog/',
   head: [['meta', { name: 'referrer', content: 'no-referrer' }]],
   theme,
   // 是否开启页面预拉取，如果服务器宽带足够，可改为 true，会提升其他页面加载速度
@@ -40,13 +40,13 @@ export default defineUserConfig({
     docsearchPlugin({
       appId: 'B1SZXOAN50',
       apiKey: '3068368ebb2ca88821ae37fa2b2813a0',
-      indexName: 'dselegent',
+      indexName: 'lb',
       placeholder: '搜索文档',
       translations: { button: { buttonText: '搜索文档' } },
     }),
-    sitemapPlugin({
-      hostname: 'https://blog.dselegent.icu',
-    }),
+    // sitemapPlugin({
+    //   hostname: 'https://lb18237798919.github.io/newblog',
+    // }),
     // 本地搜索，删除上方 docsearchPlugin 区块后生效
     // searchProPlugin({
     //   indexContent: true,
@@ -58,9 +58,5 @@ export default defineUserConfig({
     //     },
     //   ],
     // }),
-    // 谷歌分析 ID
-    googleAnalyticsPlugin({
-      id: 'G-RWKZTY2P9R',
-    }),
   ],
 })

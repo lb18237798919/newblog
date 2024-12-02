@@ -5,11 +5,11 @@ import sidebar from './sidebar'
 
 export default hopeTheme({
   // 主题选项：https://theme-hope.vuejs.press/zh/config/theme/layout.html
-  hostname: 'https://blog.dselegent.icu',
+  hostname: 'https://lb18237798919.github.io/newblog',
 
   author: {
-    name: 'dselegent',
-    url: 'https://blog.dselegent.icu',
+    name: 'lb',
+    url: 'https://lb18237798919.github.io/newblog',
   },
 
   iconAssets: 'iconfont',
@@ -27,9 +27,9 @@ export default hopeTheme({
   themeColor: false,
 
   // 默认为 GitHub. 同时也可以是一个完整的 URL
-  repo: 'dselegent/dselegent-blog',
+  repo: 'lb18237798919/newblog',
   // 编辑此页的地址设置
-  docsRepo: 'https://github.com/dselegent/dselegent-blog',
+  docsRepo: 'https://github.com/lb18237798919/newblog',
   docsBranch: 'main',
   docsDir: 'docs',
   editLinkPattern: ':repo/edit/:branch/:path',
@@ -63,20 +63,12 @@ export default hopeTheme({
   // 主题功能选项：https://theme-hope.vuejs.press/zh/config/theme/feature.html
   blog: {
     articleInfo: ['Date', 'PageView', 'Category', 'Tag', 'ReadingTime'],
-    name: 'dselegent',
+    name: 'lb',
     avatar: '/avatar.png',
     description: '迷信新工具，热衷于研究开源软件，定期分享探索成果',
     intro: '/intro.html',
     roundAvatar: true,
-    medias: {
-      GitHub: 'https://github.com/dselegent',
-      Gitee: 'https://gitee.com/dselegent',
-      QQ: 'https://i0.hdslb.com/bfs/album/93b93def4e70622a4f53d86cd06be2af72c5c845.png',
-      Wechat: 'https://i0.hdslb.com/bfs/album/c8869ecfc0fcae869a2b6999d3e56b6c3abf3227.png',
-      Email: 'mailto:1799661558@qq.com',
-      Gmail: 'mailto:dselegent@gmail.com',
-      BiliBili: 'https://space.bilibili.com/95443509',
-    },
+
   },
   // 开发模式下是否启动热更新，显示所有更改并重新渲染
   hotReload: true,
