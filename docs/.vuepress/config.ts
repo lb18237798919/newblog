@@ -44,9 +44,9 @@ export default defineUserConfig({
       placeholder: '搜索文档',
       translations: { button: { buttonText: '搜索文档' } },
     }),
-    // sitemapPlugin({
-    //   hostname: 'https://lb18237798919.github.io/newblog',
-    // }),
+    sitemapPlugin({
+      hostname: 'https://lb18237798919.github.io/newblog',
+    }),
     // 本地搜索，删除上方 docsearchPlugin 区块后生效
     // searchProPlugin({
     //   indexContent: true,
