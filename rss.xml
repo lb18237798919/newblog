@@ -1,0 +1,2108 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://lb18237798919.github.io/newblog/myblog/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://lb18237798919.github.io/newblog/myblog/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>blog</title>
+    <link>https://lb18237798919.github.io/newblog/myblog/</link>
+    <description>开源工具、效率方法的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
+    <language>zh-CN</language>
+    <pubDate>Mon, 02 Dec 2024 09:50:25 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Dec 2024 09:50:25 GMT</lastBuildDate>
+    <generator>vuepress-plugin-feed2</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>樱桃</category>
+    <category>火龙果</category>
+    <category>水果</category>
+    <category>草莓</category>
+    <category>蔬菜</category>
+    <item>
+      <title>介绍页</title>
+      <link>https://lb18237798919.github.io/newblog/myblog/intro.html</link>
+      <guid>https://lb18237798919.github.io/newblog/myblog/intro.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">介绍页</source>
+      <description>介绍页 将你的个人介绍和档案放置在此处。</description>
+      <pubDate>Mon, 02 Dec 2024 08:17:30 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 介绍页</h1>
+<p>将你的个人介绍和档案放置在此处。</p>
+]]></content:encoded>
+      <enclosure url="https://lb18237798919.github.io/newblog/myblog/assets/images/cover3.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>樱桃</title>
+      <link>https://lb18237798919.github.io/newblog/myblog/posts/cherry.html</link>
+      <guid>https://lb18237798919.github.io/newblog/myblog/posts/cherry.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">樱桃</source>
+      <description>樱桃 标题 2 这里是内容。 标题 3 这里是内容。</description>
+      <category>樱桃</category>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 樱桃</h1>
+<h2> 标题 2</h2>
+<p>这里是内容。</p>
+<h3> 标题 3</h3>
+<p>这里是内容。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>火龙果</title>
+      <link>https://lb18237798919.github.io/newblog/myblog/posts/dragonfruit.html</link>
+      <guid>https://lb18237798919.github.io/newblog/myblog/posts/dragonfruit.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">火龙果</source>
+      <description>火龙果 标题 2 这里是内容。 标题 3 这里是内容。</description>
+      <category>火龙果</category>
+      <category>水果</category>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 火龙果</h1>
+<h2> 标题 2</h2>
+<p>这里是内容。</p>
+<h3> 标题 3</h3>
+<p>这里是内容。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>草莓</title>
+      <link>https://lb18237798919.github.io/newblog/myblog/posts/strawberry.html</link>
+      <guid>https://lb18237798919.github.io/newblog/myblog/posts/strawberry.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">草莓</source>
+      <description>草莓 标题 2 这里是内容。 标题 3 这里是内容。</description>
+      <category>水果</category>
+      <category>草莓</category>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 草莓</h1>
+<h2> 标题 2</h2>
+<p>这里是内容。</p>
+<h3> 标题 3</h3>
+<p>这里是内容。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>番茄</title>
+      <link>https://lb18237798919.github.io/newblog/myblog/posts/tomato.html</link>
+      <guid>https://lb18237798919.github.io/newblog/myblog/posts/tomato.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">番茄</source>
+      <description>番茄 标题 2 这里是内容。 标题 3 这里是内容。</description>
+      <category>蔬菜</category>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 番茄</h1>
+<h2> 标题 2</h2>
+<p>这里是内容。</p>
+<h3> 标题 3</h3>
+<p>这里是内容。</p>
+]]></content:encoded>
+      <enclosure url="https://lb18237798919.github.io/newblog/myblog/assets/images/cover2.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>01 【入门篇-介绍和安装】</title>
+      <link>https://lb18237798919.github.io/newblog/myblog/back_end/linux/01.html</link>
+      <guid>https://lb18237798919.github.io/newblog/myblog/back_end/linux/01.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">01 【入门篇-介绍和安装】</source>
+      <description>01 【入门篇-介绍和安装】 1.Linux课程介绍 1.1 学习方向 linux运维工程师： 维护linux的服务器（一般大型企业） linux嵌入式工程师： linux做驱动开发，或者linux的嵌入式 linux下开发项目 1.2 应用领域</description>
+      <pubDate>Mon, 02 Dec 2024 08:17:30 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 01 【入门篇-介绍和安装】</h1>
+<h2> 1.Linux课程介绍</h2>
+<h3> 1.1 学习方向</h3>
+<ul>
+<li>linux运维工程师： 维护linux的服务器（一般大型企业）</li>
+<li>linux嵌入式工程师： linux做驱动开发，或者linux的嵌入式</li>
+<li>linux下开发项目
+<img src="https://i0.hdslb.com/bfs/album/08c3b1b814156e29bf4e53e0b59f4961a9f0bc41.jpg" alt="学习方向" loading="lazy"></li>
+</ul>
+<h3> 1.2 应用领域</h3>
+<ul>
+<li>个人桌面</li>
+<li>服务器应用
+<ul>
+<li>免费，稳定，高效</li>
+</ul>
+</li>
+<li>侵入式应用
+<ul>
+<li>机顶盒，手机，数字电视，智能家居等</li>
+</ul>
+</li>
+</ul>
+<h3> 1.3 学习进阶</h3>
+<ol>
+<li>学习基本指令
+<ul>
+<li>文件操作指令</li>
+<li>编辑工具</li>
+<li>用户管理</li>
+</ul>
+</li>
+<li>linux系统配置
+<ul>
+<li>环境变量，网络配置，服务配置</li>
+</ul>
+</li>
+<li>linux环境下搭建开发环境
+<ul>
+<li>大数据 JavaEE Python 等</li>
+</ul>
+</li>
+<li>编写shell脚本，对Linux服务器维护</li>
+<li>安全设置，防止攻击，保证服务器正常运行，系统调优</li>
+<li>深入理解Linux，对内核有研究，掌握大型网站架构、熟悉各环节部署方法</li>
+</ol>
+<h2> 2.Linux介绍及安装</h2>
+<h3> 2.1 Linux介绍</h3>
+<ul>
+<li>Linux 是一款免费，开源，安全，高效，稳定，处理高斌发很强悍的操作系统</li>
+<li>Linux创始人——linux（林纳斯）</li>
+<li>Linux主要发行版本</li>
+</ul>
+<figure><img src="https://i0.hdslb.com/bfs/album/810e414ba869dd66f88b92a607e46ba32df68a10.jpg" alt="发行版本" tabindex="0" loading="lazy"><figcaption>发行版本</figcaption></figure>
+<h3> 2.2 Unix与Linux的关系</h3>
+<p><strong>Unix来源</strong></p>
+<figure><img src="https://i0.hdslb.com/bfs/album/3e6990c8adb641d8ec6d9a617fc0eb37ab505715.jpg" alt="unix来源" tabindex="0" loading="lazy"><figcaption>unix来源</figcaption></figure>
+<p><strong>Linux来源</strong></p>
+<figure><img src="https://i0.hdslb.com/bfs/album/d46ae88ce01f8cc54b1775c7a10378cb3d8fed6e.jpg" alt="Linux来源" tabindex="0" loading="lazy"><figcaption>Linux来源</figcaption></figure>
+<p><strong>Linux与Unix关系</strong></p>
+<figure><img src="https://i0.hdslb.com/bfs/album/dd8ce4f9ca7bebf60a2681d69d80bcee4db33279.jpg" alt="Linux与Unix关系" tabindex="0" loading="lazy"><figcaption>Linux与Unix关系</figcaption></figure>
+<p><strong>Linux与Windows关系</strong></p>
+<figure><img src="https://i0.hdslb.com/bfs/album/9ce17216d979da5d1afacd8669750a3815b8d787.jpg" alt="Linux与Windows关系" tabindex="0" loading="lazy"><figcaption>Linux与Windows关系</figcaption></figure>
+<h3> 2.3 CentOS的安装</h3>
+<h4> 2.3.1 无脑安装vmware workstation</h4>
+<img src="https://i0.hdslb.com/bfs/album/439efd46a01d9dc2f79669b4c4a655142b43b6df.png" alt="image-20211112085949513" style="zoom: 67%;">
+<h4> 2.3.2 编辑vmware workstation 的虚拟网卡</h4>
+<h5> 2.3.2.1 进行便捷的远程开发需要满足的两个条件</h5>
+<figure><img src="https://i0.hdslb.com/bfs/album/8ec4fc0bd23e569c057782ccd3680dfab82d7ee2.png" alt="image-20211112090629524" tabindex="0" loading="lazy"><figcaption>image-20211112090629524</figcaption></figure>
+<h5> 2.3.2.2 三种类型的网卡的含义</h5>
+<p><strong>1) 桥接模式：虚拟机电脑在网络环境中的地位和宿主环境（开发电脑）是一样的，虚拟机可以上网，但是ip地址会变来变去，因为虚拟机的ip地址是由DHCP动态分配的</strong></p>
+<p><strong>2) NAT模式：开发电脑（宿主环境）会通过虚拟网卡构建一个局域网，虚拟机电脑作为局域网中一个成员，由于局域网受开发电脑的控制，因此虚拟机电脑的ip地址可以是固定的，局域网中的成员（虚拟机）可以通过开发电脑（宿主环境）间接的连到外面的互联网</strong></p>
+<p><strong>3）仅主机模式：虚拟机相当于黑户，完全和外界隔绝，因此不能上网</strong></p>
+<figure><img src="https://i0.hdslb.com/bfs/album/49ac3fa86025844928494ca67958e16a83c2d607.png" alt="image-20211112092206452" tabindex="0" loading="lazy"><figcaption>image-20211112092206452</figcaption></figure>
+<h5> 2.3.2.3 规划局域网</h5>
+<h5> 网段         192.168.10.xx</h5>
+<h5> 子网掩码  255.255.255.0</h5>
+<h5> 网关         192.168.10.2</h5>
+<h5> 2.3.2.4 编辑虚拟网卡（大家使用10的网段，而不是使用图片中的19网段）</h5>
+<blockquote>
+<p>大家使用10的网段，而不是使用图片中的19网段</p>
+</blockquote>
+<ol>
+<li>以管理员身份打开vmware workstation</li>
+</ol>
+<figure><img src="https://i0.hdslb.com/bfs/album/55e14e9ccb1c9cc2f79bb77c23d05fe10e470f50.png" alt="image-20211112093605466" tabindex="0" loading="lazy"><figcaption>image-20211112093605466</figcaption></figure>
+<ol start="2">
+<li>打开VMware Workstation 编辑虚拟网卡</li>
+<li>打开VMware Workstation 编辑虚拟网卡</li>
+</ol>
+<figure><img src="https://i0.hdslb.com/bfs/album/f0356e47a4d2a7d8a53b298b0125efaccda79bb4.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ol start="4">
+<li>（做了第1步就不需要再做第3步）由于需要管理员权限才能修改网络配置，我们点击更改设置</li>
+</ol>
+<figure><img src="https://i0.hdslb.com/bfs/album/112a4c4e2c6e928a191f2df2e0869e1169ee06de.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ol start="5">
+<li>仅保留NAT模式的虚拟网卡，并参照图片完成设置</li>
+</ol>
+<figure><img src="https://i0.hdslb.com/bfs/album/dea824b77e46505f9f21da65e30a2617cd5f71f8.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ol start="6">
+<li>设置网关</li>
+</ol>
+<figure><img src="https://i0.hdslb.com/bfs/album/aa333ee41fb6258018130ab5c3721cb6c0b412c1.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ol start="7">
+<li>点击确定生效</li>
+</ol>
+<figure><img src="https://i0.hdslb.com/bfs/album/d08e96203db9cedb7f70ad9a5ec371c77e330fa4.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ol start="8">
+<li>直接使用windows查看虚拟网卡设置生效情况，如果没有正常生效的部分，需要我们手动修改，然后点击确定生效</li>
+</ol>
+<figure><img src="https://i0.hdslb.com/bfs/album/09851836beeb1a97cc6c4f93f9c31c9caa06f834.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h4> 2.3.3 安装centos的linux操作系统</h4>
+<h5> 2.3.3.1  创建一个虚拟机（虚拟电脑）</h5>
+<figure><img src="https://i0.hdslb.com/bfs/album/327bd63f00e7ea4cd0fc4702b07290d28b1a9998.png" alt="image-20211112101126528" tabindex="0" loading="lazy"><figcaption>image-20211112101126528</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/0e97c3b98bb8f16f9d28197228aa67d7bb322da1.png" alt="image-20211112101207152" tabindex="0" loading="lazy"><figcaption>image-20211112101207152</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/05c1e097d8a58ffa0718fd616b7b2b7ef80f4adb.png" alt="image-20211112101419743" tabindex="0" loading="lazy"><figcaption>image-20211112101419743</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/ec6bd1daafdd330d8170e41a5564dcc39cb2d514.png" alt="image-20211112101633715" tabindex="0" loading="lazy"><figcaption>image-20211112101633715</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/fb753f20a21ffaea28caa615a959f52a0050d757.png" alt="image-20211112101910920" tabindex="0" loading="lazy"><figcaption>image-20211112101910920</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/1450560a7fc552e7328d66f6dfc9b7f0e1d714d6.png" alt="image-20211112102039077" tabindex="0" loading="lazy"><figcaption>image-20211112102039077</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/2be2c87928f931e121fe073507ebc6d57038e948.png" alt="image-20211112102252690" tabindex="0" loading="lazy"><figcaption>image-20211112102252690</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/1db17867aca2be6b0ca891356c3a3f38a540c6eb.png" alt="image-20211112102338211" tabindex="0" loading="lazy"><figcaption>image-20211112102338211</figcaption></figure>
+<h5> 2.3.3.2 在虚拟机上安装centos的操作系统</h5>
+<figure><img src="https://i0.hdslb.com/bfs/album/cefa59adabbed2bfdb3c0d1101e5bf2611a16d74.png" alt="image-20211112102422321" tabindex="0" loading="lazy"><figcaption>image-20211112102422321</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/c11688ec2c99957d2c9b093e88a9ac15e9a8eef3.png" alt="image-20211112102523270" tabindex="0" loading="lazy"><figcaption>image-20211112102523270</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/f71ad0c435f08954acb8a7a76a59566d4e5aea54.png" alt="image-20211112102943673" tabindex="0" loading="lazy"><figcaption>image-20211112102943673</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/fd9b7d92cafa61c0b55568bd20ebbaa0e9b96c70.png" alt="image-20211112103018047" tabindex="0" loading="lazy"><figcaption>image-20211112103018047</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/80df58dff80c4bde862fd7a9b53b7250a43b38c3.png" alt="image-20211112103124685" tabindex="0" loading="lazy"><figcaption>image-20211112103124685</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/31167e2a0ca9b00f4e403bc93c473f858c53a5bb.png" alt="image-20211112103316020" tabindex="0" loading="lazy"><figcaption>image-20211112103316020</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/207a4689064acd44c452d351fa128c6913a7f940.png" alt="image-20211112103402101" tabindex="0" loading="lazy"><figcaption>image-20211112103402101</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/1031c8ca689bea9bc940b874f29ea6a97d942720.png" alt="image-20211112103428107" tabindex="0" loading="lazy"><figcaption>image-20211112103428107</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/dba8970f77a6334823236f5f93ddeaa89c035085.png" alt="image-20211112152234468" tabindex="0" loading="lazy"><figcaption>image-20211112152234468</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/7f4bd9b8c3f4372f53b0526c7d6a1e399d4d4902.png" alt="image-20211112103624114" tabindex="0" loading="lazy"><figcaption>image-20211112103624114</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/85a1f9c8023b7f7a952c1d346a5cafdfcc062150.png" alt="image-20211112103706278" tabindex="0" loading="lazy"><figcaption>image-20211112103706278</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/dc549197a1fed76ff0ceca28c88b26f9736046f9.png" alt="image-20211112103733703" tabindex="0" loading="lazy"><figcaption>image-20211112103733703</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/610ce3d9ba79d61662b2163ca2040444874812c3.png" alt="image-20211112104318911" tabindex="0" loading="lazy"><figcaption>image-20211112104318911</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/f8ba300fcfd03e9f5147392b6a258b83e1483b4b.png" alt="image-20211112104520575" tabindex="0" loading="lazy"><figcaption>image-20211112104520575</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/1efe220ba6fb8c0bd79187350964dbcc7be39217.png" alt="image-20211112104549330" tabindex="0" loading="lazy"><figcaption>image-20211112104549330</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/db41a79086008bfbfc183e73173e2599cfc0a3de.png" alt="image-20211112104611613" tabindex="0" loading="lazy"><figcaption>image-20211112104611613</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/8b887fbd050ea6598335b12d6e7b01d41a1f436e.png" alt="image-20211112105044673" tabindex="0" loading="lazy"><figcaption>image-20211112105044673</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/a4be3a272635f5aa0869cec1046b0d8f136d4866.png" alt="image-20211112105126584" tabindex="0" loading="lazy"><figcaption>image-20211112105126584</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/68e27a837c01d40e96d75c34ea10dc3166e0d3f4.png" alt="image-20211112104647373" tabindex="0" loading="lazy"><figcaption>image-20211112104647373</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/e71a1714c4866266136f123f9fd33b61602f53ed.png" alt="image-20211112110654155" tabindex="0" loading="lazy"><figcaption>image-20211112110654155</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/f1909a9859a12e23cd87e1c6278e4228a10a523a.png" alt="image-20211112111741098" tabindex="0" loading="lazy"><figcaption>image-20211112111741098</figcaption></figure>
+<h2> 3.Linux基本目录机构</h2>
+<h3> 3.1 基本介绍</h3>
+<ul>
+<li>Linux的文件系统采用级层式子的树状目录结构，</li>
+<li>最上层是根目录“/”</li>
+<li><strong>Linux世界里，一切皆文件。</strong>
+<img src="https://i0.hdslb.com/bfs/album/9b6a7fb1fdb9796228fec46327ff0b69953ccaf0.jpg" alt="目录结构" loading="lazy"></li>
+</ul>
+<h3> 3.2 目录用途</h3>
+<ul>
+<li><code>/bin：</code> 是Binary的缩写，这个目录存放着最经常使用的命令。</li>
+<li>/sbin：s就是Super User的意思，这里存放的是系统管理员使用的系统管理程序。</li>
+<li><code>/home：</code>存放普通用户的主目录，在Linux中每个用户都有一个自己的目录，一般该目录名是以用户的账号命名的。</li>
+<li><code>/root：</code>该目录为系统管理员，也称作超级权限者的用户主目录。</li>
+<li>/lib：系统开机所需要最基本的动态连接共享库，其作用类似于Windows里的DLL文件。几乎所有的应用程序都需要用到这些共享库。</li>
+<li>/lost+found：这个目录一般情况下是空的，当系统非法关机后，这里就存放了一些文件。</li>
+<li>/etc：所有的系统管理所需要的配置文件和子目录my.conf。</li>
+<li><code>/usr/local</code>：这是一个非常重要的目录，用户的很多应用程序和文件都放在这个目录下，类似与windows下的program files目录。</li>
+<li><code>/boot：</code>存放的是启动Linux时使用的一些核心文件，包括一些连接文件以及镜像文件。</li>
+<li>/proc：这个目录是一个虚拟的目录，它是系统内存的映射，访问这个目录来获取系统信息。</li>
+<li>/srv：service的缩写，该目录存放一些服务启动之后需要提供的数据。</li>
+<li>/sys：这是linux2.6内核的一个很大的变化。该目录下安装了2.6内核中新出现的一个文件系统sysfs。</li>
+<li>/tmp：这个目录是用来存放一些临时文件的。</li>
+<li>/dev：类似windows的设备管理器，把所有的硬件用文件的形式存储。</li>
+<li><code>/media：</code>linux系统会自动识别一些设备，例如U盘光驱等等，当识别后，linux会把识别的设备挂载到这个目录下。</li>
+<li><code>/mnt：</code>系统提供该目录是为了让用户临时挂载别的文件系统的，我们可以将外部的存储挂载在/mnt/上，然后进入该目录就可以查看里面的内容了。</li>
+<li><code>/opt：</code>这是给主机额外安装软件所摆放的目录，如安装ORACLE数据库就可放到该目录下。默认为空。</li>
+<li>/usr/local：这是另一个给主机额外安装软件所安装的目录，一般是通过编译源码的方式安装的程序。</li>
+<li><code>/var：</code>这个目录中存放着在不断扩充着的东西，习惯将经常被修改的目录放在这个目录下，包括各种日志文件。</li>
+<li>/selinux：SELinux是一种安全子系统，它能控制程序只能访问特定文件。</li>
+</ul>
+<h3> 3.3 总结</h3>
+<ol>
+<li>Linux的目录中有且只有一个根目录。</li>
+<li>Linux的各个目录存放的内容是规划好，不用乱放文件。</li>
+<li>Linux是以文件的形式管理我们的设备，因此linux系统，一切皆为文件。</li>
+<li>Linux的各个文件目录下存放什么内容，必须有一个认识。</li>
+</ol>
+]]></content:encoded>
+      <enclosure url="https://i0.hdslb.com/bfs/album/08c3b1b814156e29bf4e53e0b59f4961a9f0bc41.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>02 【基础篇-vim编辑器 网络配置 远程登录】</title>
+      <link>https://lb18237798919.github.io/newblog/myblog/back_end/linux/02.html</link>
+      <guid>https://lb18237798919.github.io/newblog/myblog/back_end/linux/02.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">02 【基础篇-vim编辑器 网络配置 远程登录】</source>
+      <description>02 【基础篇-vim编辑器 网络配置 远程登录】 1.vi和vim编辑器 1.1 vi和vim的基本介绍 所有Linux系统都会内置vi文本编辑器 vim是vi的升级版，可以主动以字体颜色分辨语法的正确性，代码补完和编译，错误跳转等功能。 image-20220815123840409</description>
+      <pubDate>Mon, 02 Dec 2024 08:17:30 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 02 【基础篇-vim编辑器 网络配置 远程登录】</h1>
+<h2> 1.vi和vim编辑器</h2>
+<h3> 1.1 vi和vim的基本介绍</h3>
+<ul>
+<li>所有Linux系统都会内置vi文本编辑器</li>
+<li>vim是vi的升级版，可以主动以字体颜色分辨语法的正确性，代码补完和编译，错误跳转等功能。</li>
+</ul>
+<figure><img src="https://i0.hdslb.com/bfs/album/a0196d78f8e7e4af8150fc199185b84c90fc644a.png" alt="image-20220815123840409" tabindex="0" loading="lazy"><figcaption>image-20220815123840409</figcaption></figure>
+<h3> 1.2 vi和vim的三种模式</h3>
+<p>基本上 vi/vim 共分为三种模式，分别是<strong>命令模式（Command mode）</strong>，<strong>输入模式（Insert mode）<strong>和</strong>底线命令模式（Last line mode）</strong>。 这三种模式的作用分别是：</p>
+<h4> 1.2.1 正常模式</h4>
+<ul>
+<li>
+<p>用户刚刚启动 vi/vim，便进入了正常模式。</p>
+<p>此状态下敲击键盘动作会被Vim识别为命令，而非输入字符。比如我们此时按下i，并不会输入一个字符，i被当作了一个命令。</p>
+<p>以下是常用的几个命令：</p>
+<ul>
+<li><strong>i</strong> 切换到输入模式，以输入字符。</li>
+<li><strong>x</strong> 删除当前光标所在处的字符。</li>
+<li><strong>:</strong> 切换到底线命令模式，以在最底一行输入命令。</li>
+</ul>
+</li>
+</ul>
+<p>若想要编辑文本：启动Vim，进入了命令模式，按下i，切换到输入模式。</p>
+<p>命令模式只有一些最基本的命令，因此仍要依靠底线命令模式输入更多命令。</p>
+<h4> 1.2.2 插入/编辑模式</h4>
+<ul>
+<li>
+<p>在命令模式下按下i就进入了输入模式。</p>
+<p>在输入模式中，可以使用以下按键：</p>
+<ul>
+<li><strong>字符按键以及Shift组合</strong>，输入字符</li>
+<li><strong>ENTER</strong>，回车键，换行</li>
+<li><strong>BACK SPACE</strong>，退格键，删除光标前一个字符</li>
+<li><strong>DEL</strong>，删除键，删除光标后一个字符</li>
+<li><strong>方向键</strong>，在文本中移动光标</li>
+<li><strong>HOME</strong>/<strong>END</strong>，移动光标到行首/行尾</li>
+<li><strong>Page Up</strong>/<strong>Page Down</strong>，上/下翻页</li>
+<li><strong>Insert</strong>，切换光标为输入/替换模式，光标将变成竖线/下划线</li>
+<li><strong>ESC</strong>，退出输入模式，切换到命令模式</li>
+</ul>
+</li>
+</ul>
+<h4> 1.2.3 命令行模式</h4>
+<ul>
+<li>
+<p>在命令模式下按下:（英文冒号）就进入了底线命令模式。</p>
+<p>底线命令模式可以输入单个或多个字符的命令，可用的命令非常多。</p>
+<p>在底线命令模式中，基本的命令有（已经省略了冒号）：</p>
+<ul>
+<li>q 退出程序</li>
+<li>w 保存文件</li>
+</ul>
+<p>按ESC键可随时退出底线命令模式。</p>
+</li>
+</ul>
+<h4> 1.2.4 三种模式转换示意图</h4>
+<figure><img src="https://i0.hdslb.com/bfs/album/be02de7ca3ef734ffc094598a07193a7ddc56b7a.jpg" alt="3.2vim模式转换.jpg" tabindex="0" loading="lazy"><figcaption>3.2vim模式转换.jpg</figcaption></figure>
+<h3> 1.3 vi/vim 使用实例</h3>
+<p><strong>使用 vi/vim 进入一般模式</strong></p>
+<p>如果你想要使用 vi 来建立一个名为 runoob.txt 的文件时，你可以这样做：</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>直接输入 <strong>vi 文件名</strong> 就能够进入 vi 的一般模式了。请注意，记得 vi 后面一定要加文件名，不管该文件存在与否！</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/6e4689bed198cb377cd7341650f9927ae4002295.png" alt="image-20220815124239030" tabindex="0" loading="lazy"><figcaption>image-20220815124239030</figcaption></figure>
+<p><strong>按下 i 进入输入模式(也称为编辑模式)，开始编辑文字</strong></p>
+<p>在一般模式之中，只要按下 i, o, a 等字符就可以进入输入模式了！</p>
+<p>在编辑模式当中，你可以发现在左下角状态栏中会出现 –INSERT- 的字样，那就是可以输入任意字符的提示。</p>
+<p>这个时候，键盘上除了 <strong>Esc</strong> 这个按键之外，其他的按键都可以视作为一般的输入按钮了，所以你可以进行任何的编辑。</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/cdfc99dc399b6fc3b0e83a6280eb816535e64ed7.png" alt="image-20220815124308987" tabindex="0" loading="lazy"><figcaption>image-20220815124308987</figcaption></figure>
+<p><strong>按下 ESC 按钮回到一般模式</strong></p>
+<p>好了，假设我已经按照上面的样式给他编辑完毕了，那么应该要如何退出呢？是的！没错！就是给他按下 <strong>Esc</strong> 这个按钮即可！马上你就会发现画面左下角的 – INSERT – 不见了！</p>
+<p><strong>在一般模式中按下 :wq 储存后离开 vi</strong></p>
+<p>OK，我们要存档了，存盘并离开的指令很简单，输入 <strong>:wq</strong> 即可保存离开！</p>
+<h3> 1.4 Vim 按键说明</h3>
+<p>除了上面简易范例的 i, Esc, :wq 之外，其实 vim 还有非常多的按键可以使用。</p>
+<h4> 1.4.1 一般模式的光标移动、搜索替换、复制粘贴</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">移动光标的方法</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><mark>h 或 向左箭头键(←)</mark></td>
+<td><mark>光标向左移动一个字符</mark></td>
+</tr>
+<tr>
+<td style="text-align:left"><mark>j 或 向下箭头键(↓)</mark></td>
+<td><mark>光标向下移动一个字符</mark></td>
+</tr>
+<tr>
+<td style="text-align:left"><mark>k 或 向上箭头键(↑)</mark></td>
+<td><mark>光标向上移动一个字符</mark></td>
+</tr>
+<tr>
+<td style="text-align:left"><mark>l 或 向右箭头键(→)</mark></td>
+<td><mark>光标向右移动一个字符</mark></td>
+</tr>
+<tr>
+<td style="text-align:left">[Ctrl] + [f]</td>
+<td>屏幕『向下』移动一页，相当于 [Page Down]按键 (常用)</td>
+</tr>
+<tr>
+<td style="text-align:left">[Ctrl] + [b]</td>
+<td>屏幕『向上』移动一页，相当于 [Page Up] 按键 (常用)</td>
+</tr>
+<tr>
+<td style="text-align:left">[Ctrl] + [d]</td>
+<td>屏幕『向下』移动半页</td>
+</tr>
+<tr>
+<td style="text-align:left">[Ctrl] + [u]</td>
+<td>屏幕『向上』移动半页</td>
+</tr>
+<tr>
+<td style="text-align:left">+</td>
+<td>光标移动到非空格符的下一行</td>
+</tr>
+<tr>
+<td style="text-align:left">-</td>
+<td>光标移动到非空格符的上一行</td>
+</tr>
+<tr>
+<td style="text-align:left"><mark><code>n&lt;space&gt;</code></mark></td>
+<td><mark>那个 n 表示『数字』，例如 20 。按下数字后再按空格键，光标会向右移动这一行的 n 个字符。例如 <code>20&lt;space&gt;</code> 则光标会向后面移动 20 个字符距离。</mark></td>
+</tr>
+<tr>
+<td style="text-align:left">0 或功能键[Home]</td>
+<td>这是数字『 0 』：移动到这一行的最前面字符处 (常用)</td>
+</tr>
+<tr>
+<td style="text-align:left">$ 或功能键[End]</td>
+<td>移动到这一行的最后面字符处(常用)</td>
+</tr>
+<tr>
+<td style="text-align:left">H</td>
+<td>光标移动到这个屏幕的最上方那一行的第一个字符</td>
+</tr>
+<tr>
+<td style="text-align:left">M</td>
+<td>光标移动到这个屏幕的中央那一行的第一个字符</td>
+</tr>
+<tr>
+<td style="text-align:left">L</td>
+<td>光标移动到这个屏幕的最下方那一行的第一个字符</td>
+</tr>
+<tr>
+<td style="text-align:left">G</td>
+<td>移动到这个档案的最后一行(常用)</td>
+</tr>
+<tr>
+<td style="text-align:left">nG</td>
+<td>n 为数字。移动到这个档案的第 n 行。例如 20G 则会移动到这个档案的第 20 行(可配合 :set nu)</td>
+</tr>
+<tr>
+<td style="text-align:left">gg</td>
+<td>移动到这个档案的第一行，相当于 1G 啊！ (常用)</td>
+</tr>
+<tr>
+<td style="text-align:left"><mark><code>n&lt;Enter&gt;</code></mark></td>
+<td><mark>n 为数字。光标向下移动 n 行(常用)</mark></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">搜索</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><mark>/word</mark></td>
+<td><mark>向光标之下寻找一个名称为 word 的字符串。例如要在档案内搜寻 vbird 这个字符串，就输入 /vbird 即可！ (常用)</mark></td>
+</tr>
+<tr>
+<td style="text-align:left">`?word</td>
+<td>向光标之上寻找一个字符串名称为 word 的字符串。</td>
+</tr>
+<tr>
+<td style="text-align:left">/^abc</td>
+<td>查找以 abc 为行首的行</td>
+</tr>
+<tr>
+<td style="text-align:left">/abc$</td>
+<td>查找以 abc 为行尾的行</td>
+</tr>
+<tr>
+<td style="text-align:left">n</td>
+<td><mark>这个 n 是英文按键。代表重复前一个搜寻的动作。举例来说， 如果刚刚我们执行 /vbird 去向下搜寻 vbird 这个字符串，则按下 n 后，会向下继续搜寻下一个名称为 vbird 的字符串。如果是执行 ?vbird 的话，那么按下 n 则会向上继续搜寻名称为 vbird 的字符串！</mark></td>
+</tr>
+<tr>
+<td style="text-align:left"><mark>N</mark></td>
+<td><mark>这个 N 是英文按键。与 n 刚好相反，为『反向』进行前一个搜寻动作。 例如 /vbird 后，按下 N 则表示『向上』搜寻 vbird 。</mark></td>
+</tr>
+</tbody>
+</table>
+<p>在查找过程中需要注意的是，要查找的字符串是严格区分大小写的，如查找 "shenchao" 和 "ShenChao" 会得到不同的结果。</p>
+<p>如果想忽略大小写，则输入命令 ":set ic"；调整回来输入":set noic"。</p>
+<p>如果在字符串中出现特殊符号，则需要加上转义字符 ""。常见的特殊符号有 \、*、?、$ 等。如果出现这些字符，例如，要查找字符串 "10$"，则需要在命令模式中输入 "/10$"。</p>
+<table>
+<thead>
+<tr>
+<th>替换文本</th>
+<th>功能描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>r</td>
+<td>替换光标所在位置的字符</td>
+</tr>
+<tr>
+<td>R</td>
+<td>从光标所在位置开始替换字符，其输入内容会覆盖掉后面等长的文本内容，按“Esc”可以结束</td>
+</tr>
+<tr>
+<td>😒/a1/a2/g</td>
+<td>将当前光标所在行中的所有 a1 用 a2 替换</td>
+</tr>
+<tr>
+<td>:n1,n2s/a1/a2/g</td>
+<td>将文件中 n1 到 n2 行中所有 a1 都用 a2 替换</td>
+</tr>
+<tr>
+<td>:g/a1/a2/g</td>
+<td>将文件中所有的 a1 都用 a2 替换例如，要将某文件中所有的 "root" 替换为 "liudehua"，则有两种输入命令，分别为：</td>
+</tr>
+</tbody>
+</table>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>上述命令是在编辑模式下操作的，表示的是从第一行到最后一行，即全文查找 "root"，然后替换成 "liudehua"。</p>
+<p>如果刚才的命令变成 <code>:10,20 s/root/liudehua/g</code>，则只替换从第 10 行到第 20 行的 "root"。</p>
+<table>
+<thead>
+<tr>
+<th>复制粘贴</th>
+<th>功能描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>p</td>
+<td>将剪贴板中的内容粘贴到光标后</td>
+</tr>
+<tr>
+<td>P（大写）</td>
+<td>将剪贴板中的内容粘贴到光标前</td>
+</tr>
+<tr>
+<td>y</td>
+<td>复制已选中的文本到剪贴板</td>
+</tr>
+<tr>
+<td>yy</td>
+<td>将光标所在行复制到剪贴板，此命令前可以加数字 n，可复制多行</td>
+</tr>
+<tr>
+<td>yw</td>
+<td>将光标位置的单词复制到剪贴板</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>删除文本</th>
+<th>功能描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>x</td>
+<td>删除光标所在位置的字符</td>
+</tr>
+<tr>
+<td>dd</td>
+<td>删除光标所在行</td>
+</tr>
+<tr>
+<td>ndd</td>
+<td>删除当前行（包括此行）后 n 行文本</td>
+</tr>
+<tr>
+<td>dG</td>
+<td>删除光标所在行一直到文件末尾的所有内容</td>
+</tr>
+<tr>
+<td>D</td>
+<td>删除光标位置到行尾的内容</td>
+</tr>
+<tr>
+<td>:a1,a2d</td>
+<td>函数从 a1 行到 a2 行的文本内容</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>注意，被删除的内容并没有真正删除，都放在了剪贴板中。将光标移动到指定位置处，按下 "p" 键，就可以将刚才删除的内容又粘贴到此处。</p>
+</blockquote>
+<h4> 1.4.2 一般模式切换到编辑模式</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">进入输入或取代的编辑模式</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><mark>i, I</mark></td>
+<td><mark>进入输入模式(Insert mode)： i 为『从目前光标所在处输入』， I 为『在目前所在行的第一个非空格符处开始输入』。 (常用)</mark></td>
+</tr>
+<tr>
+<td style="text-align:left">a, A</td>
+<td>进入输入模式(Insert mode)： a 为『从目前光标所在的下一个字符处开始输入』， A 为『从光标所在行的最后一个字符处开始输入』。(常用)</td>
+</tr>
+<tr>
+<td style="text-align:left">o, O</td>
+<td>进入输入模式(Insert mode)： 这是英文字母 o 的大小写。o 为在目前光标所在的下一行处输入新的一行； O 为在目前光标所在的上一行处输入新的一行！(常用)</td>
+</tr>
+<tr>
+<td style="text-align:left">r, R</td>
+<td>进入取代模式(Replace mode)： r 只会取代光标所在的那一个字符一次；R会一直取代光标所在的文字，直到按下 ESC 为止；(常用)</td>
+</tr>
+<tr>
+<td style="text-align:left"><mark>[Esc]</mark></td>
+<td><mark>退出编辑模式，回到一般模式中(常用)</mark></td>
+</tr>
+</tbody>
+</table>
+<h4> 1.4.3 一般模式切换到指令行模式</h4>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">指令行的储存、离开等指令</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><mark>:w</mark></td>
+<td><mark>将编辑的数据写入硬盘档案中(常用)</mark></td>
+</tr>
+<tr>
+<td style="text-align:left"><mark>:w!</mark></td>
+<td><mark>若文件属性为『只读』时，强制写入该档案。不过，到底能不能写入， 还是跟你对该档案的档案权限有关啊！</mark></td>
+</tr>
+<tr>
+<td style="text-align:left"><mark>:q</mark></td>
+<td><mark>离开 vi (常用)</mark></td>
+</tr>
+<tr>
+<td style="text-align:left"><mark>:q!</mark></td>
+<td><mark>若曾修改过档案，又不想储存，使用 ! 为强制离开不储存档案。</mark></td>
+</tr>
+<tr>
+<td style="text-align:left">注意一下啊，那个惊叹号 (!) 在 vi 当中，常常具有『强制』的意思～</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:left"><mark>:wq</mark></td>
+<td><mark>储存后离开，若为 :wq! 则为强制储存后离开 (常用)</mark></td>
+</tr>
+<tr>
+<td style="text-align:left"><mark>ZZ</mark></td>
+<td><mark>这是大写的 Z 喔！如果修改过，保存当前文件，然后退出！效果等同于(保存并退出)</mark></td>
+</tr>
+<tr>
+<td style="text-align:left">ZQ</td>
+<td>不保存，强制退出。效果等同于 <strong>:q!</strong>。</td>
+</tr>
+<tr>
+<td style="text-align:left">:w [filename]</td>
+<td>将编辑的数据储存成另一个档案（类似另存新档）</td>
+</tr>
+<tr>
+<td style="text-align:left">:r [filename]</td>
+<td>在编辑的数据中，读入另一个档案的数据。亦即将 『filename』 这个档案内容加到游标所在行后面</td>
+</tr>
+<tr>
+<td style="text-align:left">:n1,n2 w [filename]</td>
+<td>将 n1 到 n2 的内容储存成 filename 这个档案。</td>
+</tr>
+<tr>
+<td style="text-align:left">:! command</td>
+<td>暂时离开 vi 到指令行模式下执行 command 的显示结果！例如 『:! ls /home』即可在 vi 当中察看 /home 底下以 ls 输出的档案信息！</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">vim 环境的变更</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><mark>:set nu</mark></td>
+<td><mark>显示行号，设定之后，会在每一行的前缀显示该行的行号</mark></td>
+</tr>
+<tr>
+<td style="text-align:left">:set nonu</td>
+<td>与 set nu 相反，为取消行号！</td>
+</tr>
+</tbody>
+</table>
+<h3> 1.5 总结Vim 的常见指令</h3>
+<p><strong>必须掌握</strong></p>
+<ol>
+<li>yy：复制光标当前一行</li>
+<li>5yy：拷贝当前5行</li>
+<li>p：箭头移动到目的行粘贴</li>
+<li>u：撤销上一步</li>
+<li>dd：删除当前行</li>
+<li>5dd：删除当前行向下的5行</li>
+<li>x：剪切一个字母，相当于del</li>
+<li>X：剪切一个字母，相当于退格键</li>
+<li>yw：复制一个词</li>
+<li>dw：删除一个词</li>
+<li>在文件中查找某个单词：命令行输入 /（查找内容），按n查找下一个</li>
+<li>设置文件行号：set nu，取消文件行号：set nonu</li>
+<li>编辑文件，正常模式下使用快捷键到达文档最末行：G，最首行：gg</li>
+<li>编辑文件，光标移动到某行：shift+g
+<ul>
+<li>显示行号：set nu</li>
+<li>输入行号这个数</li>
+<li>输入shift+g</li>
+</ul>
+</li>
+<li>w：向前移动一个单词（光标停在单词首部）</li>
+<li>b：向后移动一个单词 2b 向后移动2个单词</li>
+</ol>
+<p><strong>插入命令</strong></p>
+<table>
+<thead>
+<tr>
+<th>指令</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>i</td>
+<td>在当前位置生前插入</td>
+</tr>
+<tr>
+<td>I</td>
+<td>在当前行首插入</td>
+</tr>
+<tr>
+<td>a</td>
+<td>在当前位置后插入</td>
+</tr>
+<tr>
+<td>A</td>
+<td>在当前行尾插入</td>
+</tr>
+<tr>
+<td>o</td>
+<td>在当前行之后插入一行</td>
+</tr>
+<tr>
+<td>O</td>
+<td>在当前行之前插入一行</td>
+</tr>
+</tbody>
+</table>
+<p><strong>游标移动</strong></p>
+<table>
+<thead>
+<tr>
+<th>指令</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>gg</td>
+<td>移动到文件头。 = [[</td>
+</tr>
+<tr>
+<td>G（shift + g）</td>
+<td>移动到文件尾。 = ]]</td>
+</tr>
+<tr>
+<td>行數 → G</td>
+<td>移動到第 n 行</td>
+</tr>
+<tr>
+<td>冒号+行号，回车</td>
+<td>比如跳到240行就是 :240回车</td>
+</tr>
+<tr>
+<td>h</td>
+<td>左移一个字符</td>
+</tr>
+<tr>
+<td>l</td>
+<td>右移一个字符，这个命令很少用，一般用w代替。</td>
+</tr>
+<tr>
+<td>k</td>
+<td>上移一个字符</td>
+</tr>
+<tr>
+<td>j</td>
+<td>下移一个字符</td>
+</tr>
+<tr>
+<td>w</td>
+<td>向前移动一个单词（光标停在单词首部）</td>
+</tr>
+<tr>
+<td>b</td>
+<td>向后移动一个单词 2b 向后移动2个单词</td>
+</tr>
+<tr>
+<td>e</td>
+<td>同w，只不过是光标停在单词尾部</td>
+</tr>
+<tr>
+<td>ge</td>
+<td>同b，光标停在单词尾部。</td>
+</tr>
+<tr>
+<td>^</td>
+<td>移动到本行第一个非空白字符上。</td>
+</tr>
+<tr>
+<td>0</td>
+<td>移动到本行第一个字符上</td>
+</tr>
+<tr>
+<td>HOME</td>
+<td>移动到本行第一个字符。同0健。</td>
+</tr>
+<tr>
+<td>$</td>
+<td>移动到行尾 3$ 移动到下面3行的行尾</td>
+</tr>
+<tr>
+<td>f（find）</td>
+<td>fx将找到光标后第一个为x的字符，3fd将找到第三个为d的字符。</td>
+</tr>
+<tr>
+<td>F</td>
+<td>同f，反向查找</td>
+</tr>
+</tbody>
+</table>
+<p><strong>撤销和重做</strong></p>
+<table>
+<thead>
+<tr>
+<th>指令</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>u</td>
+<td>撤销（Undo）</td>
+</tr>
+<tr>
+<td>U</td>
+<td>撤销对整行的操作</td>
+</tr>
+<tr>
+<td>Ctrl + r</td>
+<td>重做（Redo），即撤销的撤销。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>删除命令</strong></p>
+<table>
+<thead>
+<tr>
+<th>指令</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>x</td>
+<td>删除当前字符</td>
+</tr>
+<tr>
+<td>3x</td>
+<td>删除当前光标开始向后三个字符</td>
+</tr>
+<tr>
+<td>X</td>
+<td>删除当前字符的前一个字符。X=dh</td>
+</tr>
+<tr>
+<td>dl</td>
+<td>删除当前字符， dl=x</td>
+</tr>
+<tr>
+<td>dh</td>
+<td>删除前一个字符</td>
+</tr>
+<tr>
+<td>dd</td>
+<td>删除当前行</td>
+</tr>
+<tr>
+<td>dj</td>
+<td>删除上一行</td>
+</tr>
+<tr>
+<td>dk</td>
+<td>删除下一行</td>
+</tr>
+<tr>
+<td>10d</td>
+<td>删除当前行开始的10行。</td>
+</tr>
+<tr>
+<td>D</td>
+<td>删除当前字符至行尾。D=d$</td>
+</tr>
+<tr>
+<td>d$</td>
+<td>删除当前字符之后的所有字符（本行）</td>
+</tr>
+<tr>
+<td>kdgg</td>
+<td>删除当前行之前所有行（不包括当前行）</td>
+</tr>
+<tr>
+<td>jdG（jd shift + g）</td>
+<td>删除当前行之后所有行（不包括当前行）</td>
+</tr>
+<tr>
+<td>:1,10d</td>
+<td>删除1-10行</td>
+</tr>
+<tr>
+<td>:11,$d</td>
+<td>删除11行及以后所有的行</td>
+</tr>
+<tr>
+<td>:1,$d</td>
+<td>删除所有行</td>
+</tr>
+<tr>
+<td>J(shift + j)</td>
+<td>删除两行之间的空行，实际上是合并两行。</td>
+</tr>
+</tbody>
+</table>
+<p><strong>拷贝，剪贴和粘贴</strong></p>
+<table>
+<thead>
+<tr>
+<th>指令</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>yy</td>
+<td>拷贝当前行</td>
+</tr>
+<tr>
+<td>nyy</td>
+<td>拷贝当前后开始的n行，比如2yy拷贝当前行及其下一行。</td>
+</tr>
+<tr>
+<td>p</td>
+<td>在当前光标后粘贴,如果之前使用了yy命令来复制一行，那么就在当前行的下一行粘贴。</td>
+</tr>
+<tr>
+<td>shift+p</td>
+<td>在当前行前粘贴</td>
+</tr>
+<tr>
+<td>:1,10 co 20</td>
+<td>将1-10行插入到第20行之后。</td>
+</tr>
+<tr>
+<td>:1,$ co $</td>
+<td>将整个文件复制一份并添加到文件尾部。</td>
+</tr>
+<tr>
+<td>ddp</td>
+<td>交换当前行和其下一行</td>
+</tr>
+<tr>
+<td>xp</td>
+<td>交换当前字符和其后一个字符</td>
+</tr>
+<tr>
+<td>ndd</td>
+<td>剪切当前行之后的n行。利用p命令可以对剪切的内容进行粘贴</td>
+</tr>
+<tr>
+<td>:1,10d</td>
+<td>将1-10行剪切。利用p命令可将剪切后的内容进行粘贴。</td>
+</tr>
+<tr>
+<td>:1, 10 m 20</td>
+<td>将第1-10行移动到第20行之后。</td>
+</tr>
+</tbody>
+</table>
+<p>正常模式下按v（逐字）或V（逐行）进入可视模式，然后用jklh命令移动即可选择某些行或字符，再按y即可复制</p>
+<p><strong>退出命令</strong></p>
+<table>
+<thead>
+<tr>
+<th>指令</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>:wq</td>
+<td>保存并退出</td>
+</tr>
+<tr>
+<td>ZZ</td>
+<td>保存并退出</td>
+</tr>
+<tr>
+<td>:q!</td>
+<td>强制退出并忽略所有更改</td>
+</tr>
+<tr>
+<td>:e!</td>
+<td>放弃所有修改，并打开原来文件。</td>
+</tr>
+<tr>
+<td>:q</td>
+<td>未修改直接退出</td>
+</tr>
+</tbody>
+</table>
+<h2> 2.网络配置</h2>
+<h3> 2.1 三种网络模式详解</h3>
+<p>vmware为我们提供了三种网络工作模式，它们分别是：<strong>Bridged（桥接模式）</strong>、<strong>NAT（网络地址转换模式）</strong>、<strong>Host-Only（仅主机模式）</strong>。</p>
+<p>打开vmware虚拟机，我们可以在选项栏的“编辑”下的“虚拟网络编辑器”中看到VMnet0（桥接模式）、VMnet1（仅主机模式）、VMnet8（NAT模式），那么这些都是有什么作用呢？其实，我们现在看到的VMnet0表示的是用于桥接模式下的虚拟交换机；VMnet1表示的是用于仅主机模式下的虚拟交换机；VMnet8表示的是用于NAT模式下的虚拟交换机。</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/ee24cee5cdad25bb2a992ba665553b822473b126.png" alt="image-20220815195704711" tabindex="0" loading="lazy"><figcaption>image-20220815195704711</figcaption></figure>
+<p>同时，在主机上对应的有VMware Network Adapter VMnet1和VMware Network Adapter VMnet8两块虚拟网卡，它们分别作用于仅主机模式与NAT模式下。在“网络连接”中我们可以看到这两块虚拟网卡，如果将这两块卸载了，可以在vmware的“编辑”下的“虚拟网络编辑器”中点击“还原默认设置”，可重新将虚拟网卡还原。</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/3244dc5ef61faac2bfee5a5940d7a4883718fcf6.png" alt="image-20220815195743297" tabindex="0" loading="lazy"><figcaption>image-20220815195743297</figcaption></figure>
+<p>小伙伴看到这里，肯定有疑问，为什么在真机上没有VMware Network Adapter VMnet0虚拟网卡呢？那么接下来，我们就一起来看一下这是为什么。</p>
+<h4> 2.1.1 Bridged（桥接模式）</h4>
+<p>什么是桥接模式？桥接模式就是将主机网卡与虚拟机虚拟的网卡利用虚拟网桥进行通信。在桥接的作用下，类似于把物理主机虚拟为一个交换机，所有桥接设置的虚拟机连接到这个交换机的一个接口上，物理主机也同样插在这个交换机当中，所以所有桥接下的网卡与网卡都是交换模式的，相互可以访问而不干扰。在桥接模式下，虚拟机ip地址需要与主机在同一个网段，如果需要联网，则网关DNS需要与主机网卡一致。其网络结构如下图所示：</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/da53965814800fc4c6ed509d342a98c92ebaf73f.png" alt="image-20220815195824917" tabindex="0" loading="lazy"><figcaption>image-20220815195824917</figcaption></figure>
+<p>点击“网络适配器”，选择“桥接模式”，然后“确定”</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/bbf1feb660af180fbc6758834b276e4a757c2a16.png" alt="image-20220815195911118" tabindex="0" loading="lazy"><figcaption>image-20220815195911118</figcaption></figure>
+<p>在进入系统之前，我们先确认一下主机的ip地址、网关、DNS等信息。</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/12ea5f96f660c11d2949098d8c7f7af7af0e281e.png" alt="image-20220815195920630" tabindex="0" loading="lazy"><figcaption>image-20220815195920630</figcaption></figure>
+<p>然后，进入系统编辑网卡配置文件，在终端输入命令<code>vim /etc/sysconfig/network-scripts/ifcfg-eth0</code></p>
+<p>添加内容如下：</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/feecd44f3a8c421c6340e1bc9b07467b36a5be64.png" alt="image-20220815200013770" tabindex="0" loading="lazy"><figcaption>image-20220815200013770</figcaption></figure>
+<p>编辑完成，保存退出，然后重启虚拟机网卡，使用ping命令ping外网ip，测试能否联网。</p>
+<blockquote>
+<p>基本语法: ping [主机地址]</p>
+<p>例如： ping <a href="http://www.baidu.com" target="_blank" rel="noopener noreferrer">www.baidu.com</a></p>
+</blockquote>
+<figure><img src="https://i0.hdslb.com/bfs/album/f82d7bd3be7abb5b18cba1d35570023ba9e259e4.png" alt="image-20220815200027788" tabindex="0" loading="lazy"><figcaption>image-20220815200027788</figcaption></figure>
+<p>能ping通外网ip，证明桥接模式设置成功。</p>
+<p>能ping通外网ip，证明桥接模式设置成功。</p>
+<p>那主机与虚拟机之间的通信是否正常呢？我们就用远程工具来测试一下。</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/3a720a028a54a7d98aaff5f55799aef20d59b671.png" alt="image-20220815200102291" tabindex="0" loading="lazy"><figcaption>image-20220815200102291</figcaption></figure>
+<p>主机与虚拟机通信正常。</p>
+<p>这就是桥接模式的设置步骤，相信大家应该学会了如何去设置桥接模式了。桥接模式配置简单，但如果你的网络环境是ip资源很缺少或对ip管理比较严格的话，那桥接模式就不太适用了。这时，我们就来认识vmware的另一种网络模式：NAT模式。</p>
+<h4> 2.1.2 NAT（地址转换模式）</h4>
+<p>如果你的网络ip资源紧缺，但是你又希望你的虚拟机能够联网，这时候NAT模式是最好的选择。NAT模式借助虚拟NAT设备和虚拟DHCP服务器，使得虚拟机可以联网。其网络结构如下图所示：</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/e9688aa206ae1003042fe5256a25497b91c05c05.png" alt="image-20220815200210830" tabindex="0" loading="lazy"><figcaption>image-20220815200210830</figcaption></figure>
+<p>在NAT模式中，主机网卡直接与虚拟NAT设备相连，然后虚拟NAT设备与虚拟DHCP服务器一起连接在虚拟交换机VMnet8上，这样就实现了虚拟机联网。那么我们会觉得很奇怪，为什么需要虚拟网卡VMware Network Adapter VMnet8呢？原来我们的VMware Network Adapter VMnet8虚拟网卡主要是为了实现主机与虚拟机之间的通信。在之后的设置步骤中，我们可以加以验证。</p>
+<p>首先，设置虚拟机中NAT模式的选项，打开vmware，点击“编辑”下的“虚拟网络编辑器”，设置NAT参数及DHCP参数。</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/d62e2bb3d5a15dc2dbca6d594b875cd1b62bd5e0.png" alt="image-20220815200228608" tabindex="0" loading="lazy"><figcaption>image-20220815200228608</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/19e5972a9d9e6f888cf7f7997add7ecb5c989d22.png" alt="image-20220815200238861" tabindex="0" loading="lazy"><figcaption>image-20220815200238861</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/a9468789e50fe61d80e12ee4a1cb73855533c1fc.png" alt="image-20220815200259125" tabindex="0" loading="lazy"><figcaption>image-20220815200259125</figcaption></figure>
+<p>将虚拟机的网络连接模式修改成NAT模式。</p>
+<p>点击“网络适配器”，选择“NAT模式”</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/980fb0a5071db9d1bf88cb672f7cd7d414423d98.png" alt="image-20220815200327743" tabindex="0" loading="lazy"><figcaption>image-20220815200327743</figcaption></figure>
+<p>然后开机启动系统，编辑网卡配置文件，在终端输入命令<code>vim /etc/sysconfig/network-scripts/ifcfg-eth0</code></p>
+<p>具体配置如下：</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/72bd28d00d8b752da7078c509706c890d3d6d859.png" alt="image-20220815200401415" tabindex="0" loading="lazy"><figcaption>image-20220815200401415</figcaption></figure>
+<p>编辑完成，保存退出，然后重启虚拟机网卡，动态获取ip地址，使用ping命令ping外网ip，测试能否联网。</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/5ae0c3d927dc8b5ad61e6ae06483f728f295c7a9.png" alt="image-20220815200410949" tabindex="0" loading="lazy"><figcaption>image-20220815200410949</figcaption></figure>
+<p>之前，我们说过VMware Network Adapter VMnet8虚拟网卡的作用，那我们现在就来测试一下。</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/b9b4a398da088d5ae0f99344ab197a184b9e4b97.png" alt="image-20220815200426008" tabindex="0" loading="lazy"><figcaption>image-20220815200426008</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/c4d4d256a74d094167a1605c5c506950b864920e.png" alt="image-20220815200435870" tabindex="0" loading="lazy"><figcaption>image-20220815200435870</figcaption></figure>
+<p>如此看来，虚拟机能联通外网，确实不是通过VMware Network Adapter VMnet8虚拟网卡，那么为什么要有这块虚拟网卡呢？</p>
+<p>之前我们就说VMware Network Adapter VMnet8的作用是主机与虚拟机之间的通信，接下来，我们就用远程连接工具来测试一下。</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/f9c0ef7cd879419b3f4147040ee600336aa4d59d.png" alt="image-20220815200451232" tabindex="0" loading="lazy"><figcaption>image-20220815200451232</figcaption></figure>
+<p>然后，将VMware Network Adapter VMnet8启用之后，发现远程工具可以连接上虚拟机了。</p>
+<p>那么，这就是NAT模式，利用虚拟的NAT设备以及虚拟DHCP服务器来使虚拟机连接外网，而VMware Network Adapter VMnet8虚拟网卡是用来与虚拟机通信的。</p>
+<h4> 2.1.3 Host-Only（仅主机模式）</h4>
+<p>Host-Only模式其实就是NAT模式去除了虚拟NAT设备，然后使用VMware Network Adapter VMnet1虚拟网卡连接VMnet1虚拟交换机来与虚拟机通信的，Host-Only模式将虚拟机与外网隔开，使得虚拟机成为一个独立的系统，只与主机相互通讯。其网络结构如下图所示：</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/9112bf9968122839aabf8048a0ea86cca6cb333f.png" alt="image-20220815200523595" tabindex="0" loading="lazy"><figcaption>image-20220815200523595</figcaption></figure>
+<p>通过上图，我们可以发现，如果要使得虚拟机能联网，我们可以将主机网卡共享给VMware Network Adapter VMnet1网卡，从而达到虚拟机联网的目的。接下来，我们就来测试一下。</p>
+<p>首先设置“虚拟网络编辑器”，可以设置DHCP的起始范围。</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/fbee609ea8624fb198bf20ff154b959e92303bd2.png" alt="image-20220815200545448" tabindex="0" loading="lazy"><figcaption>image-20220815200545448</figcaption></figure>
+<p>设置虚拟机为Host-Only模式。</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/6e25cf1fcebd6c40f3b0fa5938b1df63caccaf43.png" alt="image-20220815200602718" tabindex="0" loading="lazy"><figcaption>image-20220815200602718</figcaption></figure>
+<p>开机启动系统，然后设置网卡文件。</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/c64bde49346573bd5fc768b9196f0d03d11c75b5.png" alt="image-20220815200612317" tabindex="0" loading="lazy"><figcaption>image-20220815200612317</figcaption></figure>
+<p>保存退出，然后重启网卡，利用远程工具测试能否与主机通信。</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/5be5c99244429c5375411d5165ba9ae583d3cc41.png" alt="image-20220815200622408" tabindex="0" loading="lazy"><figcaption>image-20220815200622408</figcaption></figure>
+<p>主机与虚拟机之间可以通信，现在设置虚拟机联通外网。</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/bfd966fe4c9a9904684a1c02155a864590fe2df9.png" alt="image-20220815200634892" tabindex="0" loading="lazy"><figcaption>image-20220815200634892</figcaption></figure>
+<p>我们可以看到上图有一个提示，强制将VMware Network Adapter VMnet1的ip设置成192.168.137.1，那么接下来，我们就要将虚拟机的DHCP的子网和起始地址进行修改，点击“虚拟网络编辑器”</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/26af0bbe03bc68d3fc8e56d25bedfe3b36b90820.png" alt="image-20220815200653975" tabindex="0" loading="lazy"><figcaption>image-20220815200653975</figcaption></figure>
+<p>重新配置网卡，将VMware Network Adapter VMnet1虚拟网卡作为虚拟机的路由。</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/4a2332b3944ce97b635ee3c4d71d43bd1e1cc191.png" alt="image-20220815200721717" tabindex="0" loading="lazy"><figcaption>image-20220815200721717</figcaption></figure>
+<p>重启网卡，然后通过 远程工具测试能否联通外网以及与主机通信。</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/511329168b2bac89e79940628e20a0b5f48db59f.png" alt="image-20220815200752317" tabindex="0" loading="lazy"><figcaption>image-20220815200752317</figcaption></figure>
+<p>测试结果证明可以使得虚拟机连接外网。</p>
+<h3> 2.2 查看网络 IP 和 网关</h3>
+<p>1）查看虚拟网络编辑器</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/29862c5ca010e080847f2d3a5903178d888487c6.png" alt="image-20220815201209483" tabindex="0" loading="lazy"><figcaption>image-20220815201209483</figcaption></figure>
+<p>2）修改虚拟网卡 Ip</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/4ef964e9fa39db2a76e44431fa75098ede6b9423.png" alt="image-20220815204412976" tabindex="0" loading="lazy"><figcaption>image-20220815204412976</figcaption></figure>
+<p>3）查看网关</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/20163e57c1c6b82448af52cc1ff6c536f4a60052.png" alt="image-20220815204439960" tabindex="0" loading="lazy"><figcaption>image-20220815204439960</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/ab2b830cd96bb69e9f86fef52dec08e9e1654fba.png" alt="image-20220815204455124" tabindex="0" loading="lazy"><figcaption>image-20220815204455124</figcaption></figure>
+<p>4）查看 windows 环境的中 VMnet8 网络配置</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/a3a76ec9a2880387198da9a307fdd4845abd1948.png" alt="image-20220815204605529" tabindex="0" loading="lazy"><figcaption>image-20220815204605529</figcaption></figure>
+<h3> 2.3 配置网络 ip 地址</h3>
+<h4> 2.3.1 自动抓取</h4>
+<figure><img src="https://i0.hdslb.com/bfs/album/1dd45ae232ec2f3bc35b8cc2fda3ef8e708aa8c9.png" alt="image-20220815204635593" tabindex="0" loading="lazy"><figcaption>image-20220815204635593</figcaption></figure>
+<p><strong><code>缺点：</code></strong> 每次自动获取的ip地址可能不一样，不适用于做服务器</p>
+<h4> 2.3.2 指定ip地址</h4>
+<p><code>ifconfig</code> 查看当前网络配置</p>
+<blockquote>
+<p>BOOTPROTO="static" #IP 的配置方法[none|static|bootp|dhcp]（引导 时不 使用协议|静态分配 IP|BOOTP 协议|DHCP 协议）</p>
+<p>ONBOOT="yes" #系统启动的时候网络接口是否有效（yes/no）</p>
+<p>#IP 地址
+IPADDR=192.168.2.100 #网段必须符合要求，后面的主机地址自己设置
+#网关
+GATEWAY=192.168.2.2 #网关要和vm8虚拟交换机网关一样
+#域名解析器
+DNS1=192.168.2.2  #这个设置成和网关一样就行</p>
+<p>子网掩码默认255.255.255.0</p>
+</blockquote>
+<p>直接修改配置文件来指定IP，并可以连接到外网，编辑：vim /etc/sysconfig/network-scripts/ifcfg-ens160</p>
+<blockquote>
+<p>centos7是ifcfg-ens33</p>
+</blockquote>
+<p><img src="https://i0.hdslb.com/bfs/album/a414c7903674fcdaf58a3f3e8ab13725f9a4b2ae.png" alt="image-20220815204909611" loading="lazy"><img src="https://i0.hdslb.com/bfs/album/46b13351b7f4804b7dd921392fe0114aedd6685d.png" alt="image-20220815204852826" loading="lazy"></p>
+<p>重启网络服务：service network restart</p>
+<blockquote>
+<p>centos8重启网卡的方法</p>
+<p>1.重启⽹卡之前⼀定要重新载⼊⼀下配置⽂件，不然不能⽴即⽣效</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>2.重启⽹卡（下⾯的三条命令都可以）：</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></blockquote>
+<h3> 2.3 修改 IP 地址后可能会遇到的问题</h3>
+<p>（1）物理机能 ping 通虚拟机，但是虚拟机 ping 不通物理机,一般都是因为物理机的 防火墙问题,把防火墙关闭就行 （</p>
+<p>（2）虚拟机能 Ping 通物理机,但是虚拟机 Ping 不通外网,一般都是因为 DNS 的设置有 问题</p>
+<p>（3）虚拟机 Ping <a href="http://www.baidu.com" target="_blank" rel="noopener noreferrer">www.baidu.com</a> 显示域名未知等信息,一般查看 GATEWAY 和 DNS 设 置是否正确</p>
+<p>（4）如果以上全部设置完还是不行，需要关闭 NetworkManager 服务</p>
+<blockquote>
+<ul>
+<li>systemctl stop NetworkManager 关闭</li>
+<li>systemctl disable NetworkManager 禁用</li>
+</ul>
+</blockquote>
+<p>（5）如果检查发现 systemctl status network 有问题 需要检查 ifcfg-ens160</p>
+<h3> 2.4 配置主机名</h3>
+<p><strong>修改主机名称</strong></p>
+<p><code>hostname</code> （功能描述：查看当前服务器的主机名称）</p>
+<p>如果感觉此主机名不合适，我们可以进行修改。通过编辑<code>vim /etc/hostname</code> 文文件</p>
+<p>修改完成后重启生效。</p>
+<blockquote>
+<p>如果想立即生效可以通过<code>hostnamectl set-hostname dselegent-study【要修改的主机名】</code>这个命令，然后重启终端就可以看到效果了</p>
+</blockquote>
+<p><strong>修改 hosts 映射文件</strong></p>
+<p>1）修改 linux 的主机映射文件（hosts 文件） 后续在 hadoop 阶段，虚拟机会比较多，配置时通常会采用主机名的方式配置， 比较简单方便。 不用刻意记 ip 地址。<code>vim /etc/host</code></p>
+<p>添加如下内容</p>
+<div class="language-tex line-numbers-mode" data-ext="tex"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>重启设备，重启后，查看主机名，已经修改成功</p>
+<p>2）修改 windows 的主机映射文件（hosts 文件）</p>
+<p>​	进入 <code>C:\Windows\System32\drivers\etc</code> 路径</p>
+<p>​	打开 hosts 文件并添加如下内容</p>
+<div class="language-tex line-numbers-mode" data-ext="tex"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>先将该文件只读关闭，然后写入内容保存，最后恢复到只读状态</p>
+</blockquote>
+<p>这时可以在windows通过<code>ping ds100</code>来测试是否连通虚拟机</p>
+<h2> 3.远程登录</h2>
+<p>通常在工作过程中，公司中使用的真实服务器或者是云服务器，都不允许除运维人员之 外的员工直接接触，因此就需要通过远程登录的方式来操作。所以，远程登录工具就是必不 可缺的，目前，比较主流的有 Xshell，SSH Secure Shell，SecureCRT，FinalShell 等，同学们 可以根据自己的习惯自行选择，以下以 Xshell5 为例。</p>
+<h3> 3.1 远程登录方法</h3>
+<blockquote>
+<p>两个文件的安装步骤都在01文章中的<code>2.3centos安装</code>下的网盘链接中</p>
+</blockquote>
+<p><strong>配置 Xshell 终端</strong></p>
+<p>1）打开安装好的 Xshell</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/8799ba5a5c1af42a2035903f81415919331e9c3b.png" alt="image-20220816142329675" tabindex="0" loading="lazy"><figcaption>image-20220816142329675</figcaption></figure>
+<p>2） 编辑新链接</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/d4c918530216bbab5bba6a4371a5f586a9108f29.png" alt="image-20220816142358241" tabindex="0" loading="lazy"><figcaption>image-20220816142358241</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/acac2d2e7ba90c6fb72d9e35acdc249d80e90720.png" alt="image-20220816142412603" tabindex="0" loading="lazy"><figcaption>image-20220816142412603</figcaption></figure>
+<p>3）测试链接</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/0bfe335ebe98c8982111d6eb38edd560be4b673c.png" alt="image-20220816142430521" tabindex="0" loading="lazy"><figcaption>image-20220816142430521</figcaption></figure>
+<p>4）连接成功</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/7d08f6bb4ef68e360b5476a27a087571e7f9d894.png" alt="image-20220816142441896" tabindex="0" loading="lazy"><figcaption>image-20220816142441896</figcaption></figure>
+<p>5）断开连接</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/77b167490a8cdbf0f531d99ecc0758f677963a8b.png" alt="image-20220816142541451" tabindex="0" loading="lazy"><figcaption>image-20220816142541451</figcaption></figure>
+<p>6）添加右键点击粘贴和选中复制</p>
+<p><code>工具 -&gt; 选项</code></p>
+<figure><img src="https://i0.hdslb.com/bfs/album/28158d380acad7463c82ac2037f31ea97057c649.png" alt="image-20220816142850894" tabindex="0" loading="lazy"><figcaption>image-20220816142850894</figcaption></figure>
+<figure><img src="https://i0.hdslb.com/bfs/album/ce6971bffebe4a0db5901c765ab182a61cf0bce8.png" alt="image-20220816142931574" tabindex="0" loading="lazy"><figcaption>image-20220816142931574</figcaption></figure>
+<h3> 3.2 ftp文件传输</h3>
+<blockquote>
+<p>主要用于向服务上传或下载文件</p>
+</blockquote>
+<p><strong>配置 Xftp</strong></p>
+<p>1）创建新链接</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/8ad9550dc1d1cb181f1a5546d357bb2dc3ac14dd.png" alt="image-20220816143139643" tabindex="0" loading="lazy"><figcaption>image-20220816143139643</figcaption></figure>
+<p>2）编辑新链接</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/1ec1f5d4049e4290ae9110fc0b2390e99d3f38f3.png" alt="image-20220816143220540" tabindex="0" loading="lazy"><figcaption>image-20220816143220540</figcaption></figure>
+<blockquote>
+<p>如果配置hosts，主机可以填和名称一样的</p>
+</blockquote>
+<figure><img src="https://i0.hdslb.com/bfs/album/cf14f548fc511fa35b3823e7fba82aa91dd4d7b8.png" alt="image-20220816143307410" tabindex="0" loading="lazy"><figcaption>image-20220816143307410</figcaption></figure>
+<p>出现以上界面表示链接成功，可以进行 windows 和 linux 系统互传数据。</p>
+<p><strong>注：有可能会有部分人右边是乱码，可以使用以下方式修改，修改后重启 Xftp。</strong></p>
+<p><code>文件-当前会话属性--选项--编码：UTF-8</code></p>
+<figure><img src="https://i0.hdslb.com/bfs/album/45e7ef25dd37c8ed35859e6e5e146a3d08f0ebb5.png" alt="image-20220816143434490" tabindex="0" loading="lazy"><figcaption>image-20220816143434490</figcaption></figure>
+]]></content:encoded>
+      <enclosure url="https://i0.hdslb.com/bfs/album/a0196d78f8e7e4af8150fc199185b84c90fc644a.png" type="image/png"/>
+    </item>
+    <item>
+      <title>03 【基础篇-系统管理】</title>
+      <link>https://lb18237798919.github.io/newblog/myblog/back_end/linux/03.html</link>
+      <guid>https://lb18237798919.github.io/newblog/myblog/back_end/linux/03.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">03 【基础篇-系统管理】</source>
+      <description>03 【基础篇-系统管理】 1.Linux 中的进程和服务 计算机中，一个正在执行的程序或命令，被叫做“进程”（process）。 启动之后一只存在、常驻内存的进程，一般被称作“服务”（service）。 详细操作后面说明 2.systemctl 服务管理 service 服务管理（CentOS 6 版本-了解） systemctl （CentOS 7 版本-重点掌握）</description>
+      <pubDate>Mon, 02 Dec 2024 08:17:30 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 03 【基础篇-系统管理】</h1>
+<h2> 1.Linux 中的进程和服务</h2>
+<p>计算机中，一个正在执行的程序或命令，被叫做“进程”（process）。</p>
+<p>启动之后一只存在、常驻内存的进程，一般被称作“服务”（service）。</p>
+<blockquote>
+<p>详细操作后面说明</p>
+</blockquote>
+<h2> 2.systemctl 服务管理</h2>
+<blockquote>
+<p>service 服务管理（CentOS 6 版本-了解）</p>
+<p>systemctl （CentOS 7 版本-重点掌握）</p>
+</blockquote>
+<p>CentOS 7使用Systemd管理守护进程。centos7采用 systemd管理，服务独立的运行在内存中，服务响应速度快，但占用更多内存。独立服务的服务启动脚本都在目录 /usr/lib/systemd/system里。Systend的新特性：</p>
+<ul>
+<li>系统引导时实现服务的并行启动；</li>
+<li>按需激活进程；</li>
+<li>系统实现快照；</li>
+<li>基于依赖关系定义服务的控制逻辑；</li>
+</ul>
+<p>systemctl可用于内省和控制“systemd”系统和服务管理器的状态。centos7.x系统环境下我们经常使用此命令启停服务，实际上此命令除了其他独立服务还有很多其他用途。</p>
+<h3> 2.1 systemctl参数说明</h3>
+<blockquote>
+<p>基本语法：<code>systemctl start | stop | restart | status | reload 服务名</code></p>
+<p><code>systemctl</code> 指令管理的服务在 /<code>usr/lib/systemd/system</code></p>
+<p>查看查看服务的方法：<code>pwd /usr/lib/systemd/system</code></p>
+</blockquote>
+<p><strong>1、使用语法</strong></p>
+<p>用法：systemctl [OPTIONS…] {COMMAND} …</p>
+<p><strong>2 、参数说明</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">参数</th>
+<th style="text-align:left">参数说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">start</td>
+<td style="text-align:left">立刻启动后面接的unit</td>
+</tr>
+<tr>
+<td style="text-align:left">stop</td>
+<td style="text-align:left">立刻关闭后面接的unit</td>
+</tr>
+<tr>
+<td style="text-align:left">restart</td>
+<td style="text-align:left">立刻关闭后启动后面接的unit，亦即执行stop再start的意思</td>
+</tr>
+<tr>
+<td style="text-align:left">reload</td>
+<td style="text-align:left">不关闭后面接的unit的情况下，重载配置文件，让设定生效</td>
+</tr>
+<tr>
+<td style="text-align:left">enable</td>
+<td style="text-align:left">设定下次开机时，后面接的unit会被启动</td>
+</tr>
+<tr>
+<td style="text-align:left">disable</td>
+<td style="text-align:left">设定下次开机时，后面接的unit 不会被启动</td>
+</tr>
+<tr>
+<td style="text-align:left">status</td>
+<td style="text-align:left">目前后面接的这个unit 的状态，会列出是否正在执行、是否开机启动等信息。</td>
+</tr>
+<tr>
+<td style="text-align:left">is-active</td>
+<td style="text-align:left">目前有没有正在运行中</td>
+</tr>
+<tr>
+<td style="text-align:left">is-enable</td>
+<td style="text-align:left">开机时有没有预设要启用这个unit</td>
+</tr>
+<tr>
+<td style="text-align:left">kill</td>
+<td style="text-align:left">不要被kill这个名字吓着了,它其实是向运行unit的进程发送信号</td>
+</tr>
+<tr>
+<td style="text-align:left">show</td>
+<td style="text-align:left">列出unit的配置。</td>
+</tr>
+<tr>
+<td style="text-align:left">mask</td>
+<td style="text-align:left">注销unit,注销后你就无法启动这个unit了</td>
+</tr>
+<tr>
+<td style="text-align:left">unmask</td>
+<td style="text-align:left">取消对unit的注销</td>
+</tr>
+<tr>
+<td style="text-align:left">list-units</td>
+<td style="text-align:left">依据unit列出目前有启动的unit。若加上–all才会列出没启动的。（等价于无参数）</td>
+</tr>
+<tr>
+<td style="text-align:left">list-unit-files</td>
+<td style="text-align:left">列出所有以安装unit以及他们的开机启动状态（enabled、disabled、static、mask）。</td>
+</tr>
+<tr>
+<td style="text-align:left">–type=TYPE</td>
+<td style="text-align:left">就是unit type，主要有service，socket，target等</td>
+</tr>
+<tr>
+<td style="text-align:left">get-default</td>
+<td style="text-align:left">取得目前的 target</td>
+</tr>
+<tr>
+<td style="text-align:left">set-default</td>
+<td style="text-align:left">设定后面接的 target 成为默认的操作模式</td>
+</tr>
+<tr>
+<td style="text-align:left">isolate</td>
+<td style="text-align:left">切换到后面接的模式</td>
+</tr>
+</tbody>
+</table>
+<p><strong>3、unit file结构</strong></p>
+<p>文件通常由三部分组成：</p>
+<ul>
+<li>
+<p>Unit: 定义与Unit类型无关的通用选项；用于提供unit的描述信息，unit行为及依赖关系等。</p>
+</li>
+<li>
+<p>Service：与特定类型相关的专用选项；此处为Service类型。</p>
+</li>
+<li>
+<p>Install：定义由"systemctl enable"及"systemctl disable"命令在实现服务启用或禁用时用到的一些选项。</p>
+</li>
+</ul>
+<p><strong>4、Unit段的常用选项</strong></p>
+<ul>
+<li>Description：描述信息，意义性描述；</li>
+<li>After：定义unit的启动次序；表示当前unit应晚于哪些unit启动；其功能与Before相反；</li>
+<li>Requies：依赖到其它的units；强依赖，被依赖的units无法激活时，当前的unit即无法激活；</li>
+<li>Wants：依赖到其它的units；弱依赖；</li>
+<li>Confilcts：定义units 的冲突关系；</li>
+</ul>
+<p><strong>5、Service段的常用选项</strong></p>
+<ul>
+<li>Type：用于定义影响ExecStart及相关参数的功能的unit进程类型；
+类型有：simple、forking、oneshot、dbus、notify、idle。</li>
+<li>EnvironmentFile：环境配置文件；</li>
+<li>ExecStart：指明启动unit要运行的命令或脚本；ExecStart, ExecStartPost</li>
+<li>ExecStop：指明停止unit要运行的命令或脚本；</li>
+<li>Restart:</li>
+</ul>
+<p><strong>6、Install段的常用配置：</strong></p>
+<ul>
+<li>Alias：</li>
+<li>RequiredBy：被哪些unit所依赖；</li>
+<li>WantBy：被哪些unit所依赖；</li>
+</ul>
+<p><strong>7、Unit文件样例</strong></p>
+<blockquote>
+<p>[root@s153 system]# cat chronyd.service
+[Unit]
+Description=NTP client/server
+Documentation=man:chronyd(8) man:chrony.conf(5)
+After=ntpdate.service sntp.service ntpd.service
+Conflicts=ntpd.service systemd-timesyncd.service
+ConditionCapability=CAP_SYS_TIME</p>
+<p>[Service]
+Type=forking
+PIDFile=/var/run/chronyd.pid
+EnvironmentFile=-/etc/sysconfig/chronyd
+ExecStart=/usr/sbin/chronyd $OPTIONS
+ExecStartPost=/usr/libexec/chrony-helper update-daemon
+PrivateTmp=yes
+ProtectHome=yes
+ProtectSystem=full</p>
+<p>[Install]
+WantedBy=multi-user.target</p>
+</blockquote>
+<h3> 2.2 systemctl使用示例</h3>
+<p>1.查看开机启动列表</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="https://i0.hdslb.com/bfs/album/8f3ccb6e4eb3773f018eafbcc5958c7f307c256d.png" alt="image-20220816153223542" tabindex="0" loading="lazy"><figcaption>image-20220816153223542</figcaption></figure>
+<blockquote>
+<p>可以<strong>写一半</strong>再查看完整的服务名，一般也可以简写：<code>firewalld.service = firewall</code></p>
+</blockquote>
+<figure><img src="https://i0.hdslb.com/bfs/album/d6f8f45c8d6d676c9037ae76599649939b44d19c.png" alt="image-20220816153519618" tabindex="0" loading="lazy"><figcaption>image-20220816153519618</figcaption></figure>
+<p>说明防火墙是一个自启的状态，Linux系统启动的时候防火墙也会自启。</p>
+<p>2.设置开机启动</p>
+<blockquote>
+<p>systemctl在enable、disable、mask子命令里面增加了–now选项，可以激活同时启动服务，激活同时停止服务等。</p>
+</blockquote>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ol start="3">
+<li>取消开机启动</li>
+</ol>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>使用 <code>systemctl disable firewalld</code>时，下次重启系统时防火墙还是处于关闭的状态</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/d0a44045e2e5d9b285645fcc1b1acfdd484cac29.png" alt="image-20220816153845865" tabindex="0" loading="lazy"><figcaption>image-20220816153845865</figcaption></figure>
+<p>重新打开自启动防火墙：</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/d7c296ec3443d9ab5ddc54905e7daf6ea7dec6da.png" alt="image-20220816153905563" tabindex="0" loading="lazy"><figcaption>image-20220816153905563</figcaption></figure>
+<ol>
+<li><code>systemctl enable 服务名</code> (设置服务开机启动)，对 <code>3</code> （无界面）和 <code>5</code> （GUI）运行级别都生效</li>
+<li><code>systemctl disable 服务名</code> (关闭服务开机启动)，对 <code>3</code> （无界面）和 <code>5</code> （GUI）运行级别都生效</li>
+</ol>
+<p>4.开启服务</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>开启防火墙：</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/f87769820ac96afcfb6482b5cfe93585251e0821.png" alt="image-20220816153707677" tabindex="0" loading="lazy"><figcaption>image-20220816153707677</figcaption></figure>
+<p>5.关闭服务(但是下次开机还是会启动)</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>关闭防火墙：</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/ebacad6bc276ef0657f682f6fc16c3d429630be4.png" alt="image-20220816153641546" tabindex="0" loading="lazy"><figcaption>image-20220816153641546</figcaption></figure>
+<p>6.重启服务</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>7.重新加载配置</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>8.输出服务运行的状态</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><p>查看防火墙的状态，现在是运行中：</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/2ab17ff6081e34c5e95ab4371c18afbbb3dbf6fd.png" alt="image-20220816153614211" tabindex="0" loading="lazy"><figcaption>image-20220816153614211</figcaption></figure>
+<p>9.检查service是否在启动状态</p>
+<blockquote>
+<p>写脚本是判断服务器是否启动很管用</p>
+</blockquote>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>10.检测unit单元是否为自动启动</p>
+<blockquote>
+<p>写脚本时判断服务器是否开机自启很管用</p>
+</blockquote>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="https://i0.hdslb.com/bfs/album/71cc922dae47090936df0308581c83ee41d1e350.png" alt="image-20220816153416785" tabindex="0" loading="lazy"><figcaption>image-20220816153416785</figcaption></figure>
+<p>11.注销一个服务(service)</p>
+<blockquote>
+<p>systemctl mask 是注销服务的意思。
+注销服务意味着：
+该服务在系统重启的时候不会启动
+该服务无法进行做systemctl start/stop操作
+该服务无法进行systemctl enable/disable操作</p>
+</blockquote>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>12.取消注销服务(service)</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>13.显示单元的手册页（前提是由unit提供）</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>14.当新增或修改service单元文件时，需要系统重新加载所有修改过的配置文件</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>15.查看systemd资源使用率</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>16.杀死服务</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 3.系统运行级别</h2>
+<p>1）Linux 运行级别 CentOS 6</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/9e03760af35f6c5a47222c2cba602d0b10b0f797.png" alt="image-20220816154334839" tabindex="0" loading="lazy"><figcaption>image-20220816154334839</figcaption></figure>
+<p>Centos7的启动流程图</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/42bd95859fd306d1d3182e5701374d77f733c980.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>CentOS7中我们的初始化进程变为了systemd。执行默认target配置文件/etc/systemd/system/default.target（这是一个软链接，与默认运行级别有关）。然后执行sysinit.target来初始化系统和basic.target来准备操作系统。接着启动multi-user.target下的本机与服务器服务，并检查/etc/rc.d/rc.local文件是否有用户自定义脚本需要启动。最后执行multi-user下的getty.target及登录服务，检查default.target是否有其他的服务需要启动。</p>
+<p>注意：/etc/systemd/system/default.target指向了/lib/systemd/system/目录下的graphical.target或multiuser.target。而graphical.target依赖multiuser.target，multiuser.target依赖basic.target，basic.target依赖sysinit.target，所以倒过来执行。</p>
+</blockquote>
+<p>2）CentOS7 的运行级别简化为:</p>
+<ul>
+<li>
+<p>multi-user.target 等价于原运行级别 3（多用户有网，无图形界面）</p>
+</li>
+<li>
+<p>graphical.target 等价于原运行级别 5（多用户有网，有图形界面）</p>
+</li>
+</ul>
+<p>3） 查看当前运行级别:</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><p>4）修改当前运行级别</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><blockquote>
+<p>centos7中取消了通过修改配置文件设置系统默认运行级别</p>
+<div class="language-php line-numbers-mode" data-ext="php"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div></blockquote>
+<h2> 4.关机重启命令</h2>
+<h3> 4.1 关机重启命令汇总</h3>
+<table>
+<thead>
+<tr>
+<th>halt</th>
+<th><strong>关机</strong></th>
+<th><strong>root用户</strong></th>
+<th><strong>halt：只关闭系统，电源还在运行</strong><br><strong>halt -p：关闭系统，关闭电源（先执行halt，再执行poweroff）</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>poweroff</td>
+<td>关机</td>
+<td>root用户</td>
+<td>poweroff会发送一个关闭电源的信号给acpi</td>
+</tr>
+<tr>
+<td>reboot</td>
+<td>重启</td>
+<td>root用户</td>
+<td></td>
+</tr>
+<tr>
+<td>shutdown</td>
+<td>-h：关机<br>-r：重启<br>-c：取消shutdown操作</td>
+<td>root用户</td>
+<td>shutdown实际上是调用init 0, init 0会cleanup一些工作然后调用halt或者poweroff<br>shutdown -r now：一分钟后重启<br>shutdown -r 05:30：最近的5:30重启<br>shutdown -r +10：十分钟后重启</td>
+</tr>
+<tr>
+<td>init</td>
+<td>init 0：关机<br>init 6：重启</td>
+<td>root用户</td>
+<td>init：切换系统的运行级别</td>
+</tr>
+<tr>
+<td>systemctl</td>
+<td>systemctl halt [-i]：关机 systemctl poweroff [-i]：关机 systemctl reboot [-i]：重启</td>
+<td>普通用户 超级用户</td>
+<td>普通用户需要加-i root用户不需要加-i</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>（1）sync （功能描述：将数据由内存同步到硬盘中）</p>
+<p>（2）halt （功能描述：停机，关闭系统，但不断电）</p>
+<p>（3）poweroff （功能描述：关机，断电） （</p>
+<p>(4）reboot （功能描述：就是重启，等同于 shutdown -r now）</p>
+</blockquote>
+<p>在关机或者重启之前，执行3至4次sync，将在内存中还未保存到硬盘的数据更新到硬盘中，否则会造成数据的丢失。执行sync时要以管理员的身份运行，因为管理员具有所有文件的权限，而普通用户只具有自己的部分文件的权限。</p>
+<p>最经常使用的关机重启的命令是shutdown，因此下面详细学习的使用。</p>
+<h3> 4.2 shutdown命令</h3>
+<p>基本格式：shutdown [选项] [时间] [警告信息]</p>
+<p><em>选项：</em></p>
+<ol>
+<li>-h：关机</li>
+<li>-r：重启</li>
+<li>-c：取消shutdown执行的关机或者重启命令</li>
+<li>-k：不关机，发出警告</li>
+</ol>
+<p><em>时间：</em></p>
+<ol>
+<li>shutdown：一分钟后关机（默认）</li>
+<li>shutdown now：立刻关机</li>
+<li>shutdown 10：10分钟后关机</li>
+<li>shutdown 05:00：5点关机</li>
+</ol>
+<p>示例：</p>
+<p>shutdown -r now：系统立马重启（等同于 reboot
+shutdown -r 05:30：最近的5:30重启
+shutdown -r 10：十分钟后重启</p>
+<p>shutdown -h now：立马关机（等同于 poweroff
+shutdown -h 05:30：最近的5:30关机
+shutdown -h +10：十分钟后关机</p>
+<p>shutdown -c：取消上面的关机重启操作</p>
+<p>shutdown -k +10 “I will shutdown in 10 minutes”：10分钟后并不会真的关机，但是会把警告信息发给所有的用户。</p>
+<h3> 4.3 sync命令</h3>
+<p>sync ：linux同步数据命令，<strong>将数据由内存同步到硬盘中</strong>，包含已修改的 i-node、已延迟的块 I/O 和读写映射文件。如果不去手动的输入sync命令来真正的去写磁盘，linux系统也会周期性的去sync数据。</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>使用场景：
+1.在 关机或者开机之前最好多执行这个几次，以确保数据写入硬盘。
+2.挂载时，需要很长时间的操作动作（比如，cp 大文件，检测文件），在这个动作之后接sync。
+3.卸载U盘或其他存储设备，需要很长时间，使用sync。</p>
+<p><strong>经验技巧</strong></p>
+<p>​	Linux 系统中为了提高磁盘的读写效率，对磁盘采取了 “预读迟写”操作方式。当用户 保存文件时，Linux 核心并不一定立即将保存数据写入物理磁盘中，而是将数据保存在缓 冲区中，等缓冲区满时再写入磁盘，这种方式可以极大的提高磁盘写入数据的效率。但是， 也带来了安全隐患，如果数据还未写入磁盘时，系统掉电或者其他严重问题出现，则将导 致数据丢失。使用 sync 指令可以立即将缓冲区的数据写入磁盘。</p>
+]]></content:encoded>
+      <enclosure url="https://i0.hdslb.com/bfs/album/8f3ccb6e4eb3773f018eafbcc5958c7f307c256d.png" type="image/png"/>
+    </item>
+    <item>
+      <title>04 【实操篇-帮助命令 文件目录管理基础知识】</title>
+      <link>https://lb18237798919.github.io/newblog/myblog/back_end/linux/04.html</link>
+      <guid>https://lb18237798919.github.io/newblog/myblog/back_end/linux/04.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">04 【实操篇-帮助命令 文件目录管理基础知识】</source>
+      <description>04 【实操篇-帮助命令 文件目录管理基础知识】 1.帮助命令 通常linux命令都十分简单，但是有些还是有些复杂度的。比如find，ps这种命令，如果要照顾到所有的场合，可能需要非常巨大的篇幅。但是，万一用到这种偏门的场合怎么办？ 全面了解一下是非常有必要的，以便在使用的时候能够唤起记忆中最浅显的印象。然后剩下的，就可以交给类似于man 的这种命令了。Linux上的每一个命令，都会有配套的帮助文件，这远比网络上那些转来转去的信息，正确的多。 正式介绍一下下面的两个命令：</description>
+      <pubDate>Mon, 02 Dec 2024 08:17:30 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 04 【实操篇-帮助命令 文件目录管理基础知识】</h1>
+<h2> 1.帮助命令</h2>
+<p>通常linux命令都十分简单，但是有些还是有些复杂度的。比如<code>find</code>，<code>ps</code>这种命令，如果要照顾到所有的场合，可能需要非常巨大的篇幅。但是，万一用到这种偏门的场合怎么办？</p>
+<p>全面了解一下是非常有必要的，以便在使用的时候能够唤起记忆中最浅显的印象。然后剩下的，就可以交给类似于<code>man </code>的这种命令了。Linux上的每一个命令，都会有配套的帮助文件，这远比网络上那些转来转去的信息，正确的多。</p>
+<p>正式介绍一下下面的两个命令：</p>
+<ul>
+<li><code>man</code> 用来显示某个命令的文档信息。比如：<code>man ls</code></li>
+<li><code>info</code> 你可以认为和man是一样的，虽然有一些能够互补的内容。它们会在内容中进行提示的</li>
+<li><code>--help</code> 很多命令通过参数<code>--help</code>提供非常简短的帮助信息。这通常是最有用最快捷的用例展示。如果你根本就记不住一个非常拗口的单词，那就找找这些地方吧</li>
+</ul>
+<blockquote>
+<p>注意：这些帮助信息，仅集中在命令的作用域本身。对于它的组合使用场景，并没有过多信息。也就是说，它教会了你怎么用，但并没有告诉你用它能够来做什么。</p>
+</blockquote>
+<blockquote>
+<h3> TAB补全</h3>
+<p>现在，在终端里，输入<code>ca</code>，然后快速按2次<code>&lt;TAB&gt;</code>键盘，命令行会进入补全模式，显示以ca打头的所有命令。</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>如果你对某个命令，只有模糊的印象，只记得前面的几个字母，这个功能是极好的，命令范围会一步步缩减。</p>
+</blockquote>
+<h2> 2.文件和目录管理基础知识</h2>
+<h3> 2.1 文件系统的层次结构</h3>
+<p>平时打交道的都是文件，那么，应该如何找到它们呢？很简单，在 Linux 操作系统中，所有的文件和目录都被组织成以一个根节点“/”开始的倒置的树状结构。</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/fa695b742d612fe2cae3a2058e37bf268db12a56.png" alt="image-20220817210102283" tabindex="0" loading="lazy"><figcaption>image-20220817210102283</figcaption></figure>
+<p>其中，目录就相当于 Windows 中的文件夹，目录中存放的既可以是文件，也可以是其他的子目录，而文件中存储的是真正的信息。</p>
+<p>文件系统的最顶层是由根目录开始的，系统使用“/”来表示根目录，在根目录之下的既可以是目录，也可以是文件，而每一个目录中又可以包含（子）目录或文件。如此反复就可以构成一个庞大的文件系统。</p>
+<blockquote>
+<p>其实，使用这种树状、具有层次的文件结构主要目的是方便文件系统的管理和维护，想象一下，如果所有的文件都放在一个目录下，其文件系统的管理和维护将变成一场噩梦。</p>
+</blockquote>
+<p>现实中也有许多类似的例子，例如在整个行政管理体制中，村民就相当于文件，他们住在一个村庄中，村庄就是存储村民的目录。许多村又组成了个乡，这个乡就相当于存储村的目录，依此类推，最终就构建出了一个庞大的行政区域管理结构图。</p>
+<p>注意，目录名或文件名都是区分大小写的，如 dog、DOG 和 Dog 为 3 个不同的目录或文件。完整的目录或文件路径是由一连串的目录名所组成的，其中每一个目录由“/”来分隔。如 cat 的完整路径是 /home/cat。</p>
+<p>在文件系统中，有两个特殊的目录，一个是用户所在的工作目录，即当前目录，可用一个点“.”表示；另一个是当前目录的上一层目录，也叫父目录，用两个点“..”表示。</p>
+<blockquote>
+<p>如果一个目录或文件名是以一个点开始，就表示这个目录或文件是一个隐藏目录或文件。即以默认方式査找（后续会讲查找命令）时，不显示该目录或文件。</p>
+</blockquote>
+<p>为了方便管理和维护，Linux 系统采用了文件系统层次标准，也称为 FHS 标准，它规定了根目录下各个目录应该存在哪些类型的文件（或子目录），比如说，在 /bin 和 /sbin 目录中存放的应该是可执行文件，有关各个目录存放文件的类型。</p>
+<h3> 2.2 绝对路径和相对路径详解</h3>
+<p>在 Linux 中，简单的理解一个文件的路径，指的就是该文件存放的位置，例如， /home/cat 就表示的是 cat 文件所存放的位置。只要我们告诉 Linux 系统某个文件存放的准确位置，那么它就可以找到这个文件。</p>
+<p>指明一个文件存放的位置，有 2 种方法，分别是使用绝对路径和相对路径。</p>
+<p>我们知道，Linux 系统中所有的文件（目录）都被组织成以根目录“/”开始的倒置的树状结构。</p>
+<figure><img src="http://c.biancheng.net/uploads/allimg/190506/2-1Z5061A1003X.gif" alt="img" tabindex="0" loading="lazy"><figcaption>img</figcaption></figure>
+<p>绝对路径一定是由根目录 / 开始写起。例如，使用绝对路径的表示方式指明 bin 文件所在的位置，该路径应写为 /usr/bin，测试代码如下：</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>可以看到，如果仅传递给 Linux 系统一个文件名，它无法找到指定文件；而当将 bin 文件的绝对路径传递 Linux 系统时，它就可以成功找到。</p>
+<p>和绝对路径不同，相对路径不是从根目录 / 开始写起，而是从当前所在的工作目录开始写起。使用相对路径表明某文件的存储位置时，经常会用到前面讲到的 2 个特殊目录，即当前目录（用 . 表示）和父目录（用 .. 表示）。</p>
+<p>举个例子，当我们使用 root 身份登录 Linux 系统时，当前工作目录默认为 /root，如果此时需要将当前工作目录调整到 root 的子目录 Desktop 中，当然可以使用绝对路径，示例代码如下：</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>注意，这里所使用的 pwd 和 cd 命令，目前只需知道它们的功能即可，具体用法会在后续文章中作详细讲解。</p>
+</blockquote>
+<p>可以看到，通过使用绝对路径，我们成功地改变了当前工作路径。但除此之外，使用相对路径的方式会更简单。因为目前处于 /root 的位置，而 Desktop 就位于当前目录下，所以：</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>此代码中，./Desktop 表示的就是 Destop 文件相对于 /root 所在的路径。</p>
+<p>再举一个例子，如果以 root 身份登录 Linux 系统，并实现将当前工作目录由 /root 转换为 /usr 目录，有以下 2 种方式：</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>总之，绝对路径是相对于根路径 / 的，只要文件不移动位置，那么它的绝对路径是恒定不变的；而相对路径是相对于当前所在目录而言的，随着程序的执行，当前所在目录可能会改变，因此文件的相对路径不是固定不变的。</p>
+<h3> 2.3 文件（目录）命名规则</h3>
+<p>介绍完 Linux 系统中目录结构之后，读者一定想知道如何为文件或目录命名。</p>
+<p>我们知道，在 Linux 系统中，一切都是文件，既然是文件，就必须要有文件名。同其他系统相比，Linux 操作系统对文件或目录命名的要求相对比较宽松。</p>
+<p>Linux 系统中，文件和目录的命名规则如下：</p>
+<ol>
+<li>除了字符“/”之外，所有的字符都可以使用，但是要注意，在目录名或文件名中，使用某些特殊字符并不是明智之举。例如，在命名时应避免使用 &lt;、&gt;、？、* 和非打印字符等。如果一个文件名中包含了特殊字符，例如空格，那么在访问这个文件时就需要使用引号将文件名括起来。</li>
+<li>目录名或文件名的长度不能超过 255 个字符。</li>
+<li>目录名或文件名是区分大小写的。如 DOG、dog、Dog 和 DOg ，是互不相同的目录名或文件名，但使用字符大小写来区分不同的文件或目录，也是不明智的。</li>
+<li>与 Windows 操作系统不同，文件的扩展名对 Linux 操作系统没有特殊的含义，换句话说，Linux 系统并不以文件的扩展名开分区文件类型。例如，dog.exe 只是一个文件，其扩展名 .exe 并不代表此文件就一定是可执行文件。
+需要注意的是，在 Linux 系统中，硬件设备也是文件，也有各自的文件名称。Linux 系统内核中的 udev 设备管理器会自动对硬件设备的名称进行规范，目的是让用户通过设备文件的名称，就可以大致猜测处设备的属性以及相关信息。</li>
+</ol>
+<p>udev 设备管理器会一直以进程的形式运行，并侦听系统内核发出的信号来管理位于 /dev 目录下的设备文件。</p>
+<p>表 1 罗列出了Linux 系统中常见硬件设备的文件名。</p>
+<table>
+<thead>
+<tr>
+<th>硬件设备</th>
+<th>文件名称</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>IDE设备</td>
+<td>/dev/hd[a-d]，现在的 IDE设备已经很少见了，因此一般的硬盘设备会以 /dev/sd 开头。</td>
+</tr>
+<tr>
+<td>SCSI/SATA/U盘</td>
+<td>/dev/sd[a-p]，一台主机可以有多块硬盘，因此系统采用 a~p 代表 16 块不同的硬盘。</td>
+</tr>
+<tr>
+<td>软驱</td>
+<td>/dev/fd[0-1]</td>
+</tr>
+<tr>
+<td>打印机</td>
+<td>/dev/lp[0-15]</td>
+</tr>
+<tr>
+<td>光驱</td>
+<td>/dev/cdrom</td>
+</tr>
+<tr>
+<td>鼠标</td>
+<td>/dev/mouse</td>
+</tr>
+<tr>
+<td>磁带机</td>
+<td>/dev/st0 或 /dev/ht0</td>
+</tr>
+</tbody>
+</table>
+<h3> 2.4 命令基本格式</h3>
+<p>本节开始，我们不会再见到图形界面了，因为对服务器来讲，图形界面会占用更多的系统资源，而且会安装更多的服务、开放更多的端口，这对服务器的稳定性和安全性都有负面影响。其实，服务器是一个连显示器都没有的家伙，要图形界面干十么？</p>
+<p>说到这里，有很多人会很崩溃。笔者就经常听到抱怨 Linux 是落后于时代的老古董，就像笔者的白头发一样！但是，大家要理解，对服务器来讲，稳定性、可靠性、安全性才是最主要的。而简单易用不是服务器需要考虑的事情，所以学习 Linux，这些枯燥的命令是必须学习和记忆的内容。</p>
+<h3> 2.5 命令提示符</h3>
+<p>登录系统后，第一眼看到的内容是：</p>
+<p>[root@localhost ~]#</p>
+<p>这就是 Linux 系统的命令提示符。那么，这个提示符的含义是什么呢？</p>
+<ul>
+<li>[]：这是提示符的分隔符号，没有特殊含义。</li>
+<li>root：显示的是当前的登录用户，笔者现在使用的是 root 用户登录。</li>
+<li>@：分隔符号，没有特殊含义。</li>
+<li>localhost：当前系统的简写主机名（完整主机名是 localhost.localdomain）。</li>
+<li>~：代表用户当前所在的目录，此例中用户当前所在的目录是家目录。</li>
+<li>#：命令提示符，Linux 用这个符号标识登录的用户权限等级。如果是超级用户，提示符就是 #；如果是普通用户，提示符就是 $。</li>
+</ul>
+<p>家目录（又称主目录）是什么？ Linux 系统是纯字符界面，用户登录后，要有一个初始登录的位置，这个初始登录位置就称为用户的家：</p>
+<ul>
+<li>超级用户的家目录：/root。</li>
+<li>普通用户的家目录：/home/用户名。</li>
+</ul>
+<p>用户在自己的家目录中拥有完整权限，所以我们也建议操作实验可以放在家目录中进行。我们切换一下用户所在目录，看看有什么效果。</p>
+<p>[root@localhost ~]# cd /usr/local
+[root@localhost local]#</p>
+<p>仔细看，如果切换用户所在目录，那么命令提示符中的会变成用户当前所在目录的最后一个目录（不显示完整的所在目录 /usr/ local，只显示最后一个目录 local)。</p>
+<h3> 2.6 命令的基本格式</h3>
+<p>接下来看看 Linux 命令的基本格式:</p>
+<p><code>[root@localhost ~]# 命令[选项][参数]</code></p>
+<p>命令格式中的 [] 代表可选项，也就是有些命令可以不写选项或参数，也能执行。那么，我们就用 Linux 中最常见的 ls 命令来解释一下命令的格式（有关 ls 命令的具体用法，后续章节会详细介绍）。如果按照命令的分类，那么 ls 命令应该属于目录操作命令。</p>
+<p><code>[root@localhost ~]# ls anaconda-ks.cfg install.log install.log.syslog</code></p>
+<h4> 2.6.1 选项的作用</h4>
+<p>ls 命令之后不加选项和参数也能执行，不过只能执行最基本的功能，即显示当前目录下的文件名。那么加入一个选项，会出现什么结果？</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>如果加一个"-l"选项，则可以看到显示的内容明显增多了。"-l"是长格式（long list）的意思，也就是显示文件的详细信息。至于 "-l" 选项的具体含义，我们稍后再详细讲解。可以看到选项的作用是调整命令功能。如果没有选项，那么命令只能执行最基本的功能；而一旦有选项，则可以显示更加丰富的数据。</p>
+<p>Linux 的选项又分为短格式选项（-l）和长格式选项（--all）。短格式选项是英文的简写，用一个减号调用，例如：</p>
+<p><code>[root@localhost ~]# ls -l</code></p>
+<p>而长格式选项是英文完整单词，一般用两个减号调用，例如：</p>
+<p><code>[root@localhost ~]# ls --all</code></p>
+<p>一般情况下，短格式选项是长格式选项的缩写，也就是一个短格式选项会有对应的长格式选项。当然也有例外，比如 ls 命令的短格式选项 -l 就没有对应的长格式选项。所以具体的命令选项可以通过后面我们要学习的帮助命令来进行査询。</p>
+<h4> 2.6.2 参数的作用</h4>
+<p>参数是命令的操作对象，一般文件、目录、用户和进程等可以作为参数被命令操作。例如：</p>
+<p><code>[root@localhost ~]# ls -l anaconda-ks.cfg -rw-------.1 root root 1207 1 月 14 18:18 anaconda-ks.cfg</code></p>
+<p>但是为什么一开始 ls 命令可以省略参数？那是因为有默认参数。命令一般都需要加入参数，用于指定命令操作的对象是谁。如果可以省略参数，则一般都有默认参数。例如：</p>
+<p><code>[root@localhost ~]# ls anaconda-ks.cfg install.log install.log.syslog</code></p>
+<p>这个 ls 命令后面没有指定参数，默认参数是当前所在位置，所以会显示当前目录下的文件名。</p>
+<p>总结一下：命令的选项用于调整命令功能，而命令的参数是这个命令的操作对象。</p>
+]]></content:encoded>
+      <enclosure url="https://i0.hdslb.com/bfs/album/fa695b742d612fe2cae3a2058e37bf268db12a56.png" type="image/png"/>
+    </item>
+    <item>
+      <title>05【实操篇-文件目录类命令】</title>
+      <link>https://lb18237798919.github.io/newblog/myblog/back_end/linux/05.html</link>
+      <guid>https://lb18237798919.github.io/newblog/myblog/back_end/linux/05.html</guid>
+      <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">05【实操篇-文件目录类命令】</source>
+      <description>05【实操篇-文件目录类命令】 1.pwd 显示当前工作目录的绝对路径 pwd:print working directory 打印工作目录 到现在为止，我们还不知道自己在系统的什么地方。在浏览器上，我们能够通过导航栏上的url，了解到自己在互联网上的具体坐标。相似的功能，是由pwd命令提供的，它能够输出当前的工作目录。 pwd命令是非常非常常用的命令，尤其是在一些命令提示符设置不太友好的机器上。另外，它也经常用在shell脚本中，用来判断当前的运行目录是否符合需求。</description>
+      <pubDate>Mon, 02 Dec 2024 08:17:30 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> 05【实操篇-文件目录类命令】</h1>
+<h2> 1.pwd 显示当前工作目录的绝对路径</h2>
+<blockquote>
+<p>pwd:print working directory 打印工作目录</p>
+</blockquote>
+<p>到现在为止，我们还不知道自己在系统的什么地方。在浏览器上，我们能够通过导航栏上的url，了解到自己在互联网上的具体坐标。相似的功能，是由<code>pwd</code>命令提供的，它能够输出当前的工作目录。</p>
+<p><code>pwd</code>命令是非常非常常用的命令，尤其是在一些<code>命令提示符</code>设置不太友好的机器上。另外，它也经常用在shell脚本中，用来判断当前的运行目录是否符合需求。</p>
+<p>有很多线上事故，都是由于没有确认当前目录所引起的。比如<code>rm -rf *</code>这种危险的命令。在执行一些高危命令时，随时确认当前目录，是个好的习惯。</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>选项与参数：</p>
+<ul>
+<li><strong>-P</strong> ：显示出确实的路径，而非使用链接 (link) 路径。</li>
+</ul>
+<p>实例：单纯显示出目前的工作目录：</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>我们使用root用户默认登陆后，就停留在<code>/root</code>目录中。Linux中的目录层次，是通过<code>/</code>进行划分的。</p>
+</blockquote>
+<p>实例显示出实际的工作目录，而非链接档本身的目录名而已。</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> <a href="http://2.ls" target="_blank" rel="noopener noreferrer">2.ls</a> 列出目录的内容</h2>
+<blockquote>
+<p>ls:list 列出目录内容</p>
+</blockquote>
+<p><code>ls</code>命令，能够列出相关目录的文件信息。可以被评为linux下最勤劳的命令标兵。</p>
+<p>语法：</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>选项与参数：</p>
+<ul>
+<li>-a ：全部的文件，连同隐藏文件( 开头为 . 的文件) 一起列出来(常用)</li>
+<li>-d ：仅列出目录本身，而不是列出目录内的文件数据(常用)</li>
+<li>-l ：长数据串列出，包含文件的属性与权限等等数据；(常用)</li>
+</ul>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>每行列出的信息依次是： 文件类型与权限 链接数 文件属主 文件属组 文件大小用byte 来表示 建立或最近修改的时间 名字</p>
+<figure><img src="https://i0.hdslb.com/bfs/album/0b901b1573479aada8d856c091084281de5c1b7b.png" alt="image-20220816220526783" tabindex="0" loading="lazy"><figcaption>image-20220816220526783</figcaption></figure>
+</blockquote>
+<p>直接在你的/root目录里，执行<code>ls -al</code>，你会看到更多东西。这些额外的隐藏文件，都是以<code>.</code>开头，以配置文件居多。这就是参数<code>a</code>的作用。</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>ls最常用的，就是加参数<code>l</code>或者参数<code>a</code>。</p>
+<p>细心的同学，应该会注意到两个特殊的目录。<code>.</code>和<code>..</code>。前者表示的是当前目录，而后者表示的是上层目录。</p>
+<p>使用<code>cd</code>命令，将在这些目录中，自由穿梭。</p>
+<blockquote>
+<p>小技巧：如果你对英文日期阅读困难，可以使用<code>ls -al --full-time</code>查看可读的日期。</p>
+</blockquote>
+<h2> <a href="http://3.cd" target="_blank" rel="noopener noreferrer">3.cd</a> 切换目录</h2>
+<blockquote>
+<p>cd:Change Directory 切换路径</p>
+</blockquote>
+<p>执行cd命令，可以将工作目录切换到目标文件夹。为了展示cd命令的效果。请在root用户下，执行下面的命令，这将创建一个7层的目录。</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><p>我们使用cd命令，切换到最后一层。然后，我们使用<code>..</code>切换到上层目录。</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>所以，切换到上面n层目录，只需使用多层级的<code>../</code>即可。有几个特殊的变量，需要说明一下。</p>
+<ul>
+<li><code>../</code> 指的是上层目录</li>
+<li><code>../../</code> 指的是上两层目录</li>
+<li><code>./</code> 指的是当前目录</li>
+<li><code>~</code> 指的是当前的用户目录，这是一个缩写符号</li>
+<li><code>-</code> 使用它，可以在最近两次的目录中来回切换</li>
+</ul>
+<p>我们来使用命令把上面这些特殊变量验证一下。</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 4.mkdir 创建一个新的目录</h2>
+<blockquote>
+<p>mkdir:Make directory 建立目录</p>
+</blockquote>
+<p>语法：</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>选项与参数：</p>
+<ul>
+<li>-m ：配置文件的权限喔！直接配置，不需要看默认权限 (umask) 的脸色～</li>
+<li>-p ：帮助你直接将所需要的目录(包含上一级目录)递归创建起来！</li>
+</ul>
+<p>实例：请到/tmp底下尝试创建数个新目录看看：</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>加了这个 -p 的选项，可以自行帮你创建多层目录！</p>
+<p>实例：创建权限为 <strong>rwx--x--x</strong> 的目录。</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>上面的权限部分，如果没有加上 -m 来强制配置属性，系统会使用默认属性。</p>
+<p>如果我们使用 -m ，如上例我们给予 -m 711 来给予新的目录 drwx--x--x 的权限。</p>
+<h2> 5.rmdir 删除空的目录</h2>
+<blockquote>
+<p>rmdir:Remove directory 移除目录</p>
+</blockquote>
+<p>语法：</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>选项与参数：</p>
+<ul>
+<li>**-p ：**从该目录起，一次删除多级空目录</li>
+</ul>
+<p>删除 runoob 目录</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>将 mkdir 实例中创建的目录(/tmp 底下)删除掉！</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>利用 -p 这个选项，立刻就可以将 test1/test2/test3/test4 一次删除。</p>
+<blockquote>
+<p>删除完test4发现test3是空目录继续删除，以此类推。</p>
+</blockquote>
+<p>不过要注意的是，这个 rmdir 仅能删除空的目录，你可以使用 rm 命令来删除非空目录。</p>
+<h2> 6.touch 创建空文件</h2>
+<p>1）基本语法</p>
+<p>touch 文件名称</p>
+<p>2）案例实操</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 7.cp 复制文件或目录</h2>
+<p>cp 即拷贝文件和目录。</p>
+<p>语法:</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><p>选项与参数：</p>
+<ul>
+<li>**-i：**若目标档(destination)已经存在时，在覆盖时会先询问动作的进行(常用)</li>
+<li>**-p：**连同文件的属性一起复制过去，而非使用默认属性(备份常用)；</li>
+<li>**-r：**递归持续复制，用於目录的复制行为；(常用)</li>
+<li>**-f：**为强制(force)的意思，若目标文件已经存在且无法开启，则移除后再尝试一次；</li>
+</ul>
+<p>用 root 身份，将 root 目录下的 .bashrc 复制到 /tmp 下，并命名为 bashrc</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 8.rm 删除文件或目录</h2>
+<p>rm 是强大的删除命令，它可以永久性地删除文件系统中指定的文件或目录。在使用 rm 命令删除文件或目录时，系统不会产生任何提示信息。</p>
+<p>语法：</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>选项与参数：</p>
+<ul>
+<li>-f ：就是 force 的意思，忽略不存在的文件，不会出现警告信息；</li>
+<li>-i ：互动模式，在删除前会询问使用者是否动作</li>
+<li>-r ：递归删除啊！最常用在目录的删除了！这是非常危险的选项！！！</li>
+</ul>
+<p>注意，rm 命令是一个具有破坏性的命令，因为 rm 命令会永久性地删除文件或目录，这就意味着，如果没有对文件或目录进行备份，一旦使用 rm 命令将其删除，将无法恢复，因此，尤其在使用 rm 命令删除目录时，要慎之又慎。</p>
+<p>【例 1】基本用法。
+rm 命令如果任何选项都不加，则默认执行的是"rm -i 文件名"，也就是在删除一个文件之前会先询问是否删除。例如：</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>【例 2】 删除目录。
+如果需要删除目录，则需要使用"-r"选项。例如:</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>大家会发现，如果每级目录和每个文件都需要确认，那么在实际使用中简直是灾难！</p>
+<p>【例 3】强制删除。
+如果要删除的目录中有 1 万个子目录或子文件，那么普通的 rm 删除最少需要确认 1 万次。所以，在真正删除文件的时候，我们会选择强制删除。例如：</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>加入了强制功能之后，删除就会变得很简单，但是需要注意，数据强制删除之后无法恢复，除非依赖第三方的数据恢复工具，如 extundelete 等。但要注意，数据恢复很难恢复完整的数据，一般能恢复 70%~80% 就很难得了。所以，与其把宝压在数据恢复上，不如养成良好的操作习惯。</p>
+<p>虽然 "-rf" 选项是用来删除目录的，但是删除文件也不会报错。所以，为了使用方便，一般不论是删除文件还是删除目录，都会直接使用 "-rf" 选项。</p>
+<h2> <a href="http://9.mv" target="_blank" rel="noopener noreferrer">9.mv</a> 移动文件与目录或重命名</h2>
+<p>语法：</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><p>选项与参数：</p>
+<ul>
+<li>-f ：force 强制的意思，如果目标文件已经存在，不会询问而直接覆盖；</li>
+<li>-i ：若目标文件 (destination) 已经存在时，就会询问是否覆盖！</li>
+<li>-u ：若目标文件已经存在，且 source 比较新，才会升级 (update)</li>
+</ul>
+<p>复制一文件，创建一目录，将文件移动到目录中</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>将某个文件移动到某个目录去，就是这样做！</p>
+<p>将刚刚的目录名称更名为 mvtest2</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 10.cat 查看文件内容</h2>
+<p>为了查看文件的生成效果，可以使用cat命令检测。cat命令将会把文件的内容，输出打印到终端上。如果加上参数<code>n</code>，甚至可以打印行号。效果如下：</p>
+<div class="language-csharp line-numbers-mode" data-ext="cs"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>除了查看文件内容，cat命令通常用在更多的地方。只有和其他命令联合起来，它才会觉得生活有意义。</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>由于我们的文件不大，cat命令没有什么危害。但假如文件有几个<code>GB</code>，使用cat就危险的多，这只叫做<code>猫</code>的小命令，会在终端上疯狂的进行输出，你可以通过多次按<code>ctrl+c</code>来终止它。</p>
+<h2> 11.less 分屏显示文件内容</h2>
+<p>既然cat命令不适合操作大文件，那一定有替换的方案。less和more就是。由于less的加载速度比more快一些，所以现在一般都使用<code>less</code>。它最主要的用途，是用来分页浏览文件内容，并提供一些快速查找的方式。less是一个<code>交互式</code>的命令，你需要使用一些快捷键来控制它。</p>
+<p>不仅如此，为了方面用户浏览文本内容，less 命令还提供了以下几个功能：</p>
+<ul>
+<li>使用光标键可以在文本文件中前后（左后）滚屏；</li>
+<li>用行号或百分比作为书签浏览文件；</li>
+<li>提供更加友好的检索、高亮显示等操作；</li>
+<li>兼容常用的字处理程序（如 Vim、Emacs）的键盘操作；</li>
+<li>阅读到文件结束时，less 命令不会退出；</li>
+<li>屏幕底部的信息提示更容易控制使用，而且提供了更多的信息。</li>
+</ul>
+<p>less 命令的基本格式如下：</p>
+<p><code>[root@localhost ~]# less [选项] 文件名</code></p>
+<p>此命令可用的选项以及各自的含义如表所示。</p>
+<table>
+<thead>
+<tr>
+<th>选项</th>
+<th>选项含义</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>-N</td>
+<td>显示每行的行号。</td>
+</tr>
+<tr>
+<td>-S</td>
+<td>行过长时将超出部分舍弃。</td>
+</tr>
+<tr>
+<td>-e</td>
+<td>当文件显示结束后，自动离开。</td>
+</tr>
+<tr>
+<td>-g</td>
+<td>只标志最后搜索到的关键同。</td>
+</tr>
+<tr>
+<td>-Q</td>
+<td>不使用警告音。</td>
+</tr>
+<tr>
+<td>-i</td>
+<td>忽略搜索时的大小写。</td>
+</tr>
+<tr>
+<td>-m</td>
+<td>显示类似 more 命令的百分比。</td>
+</tr>
+<tr>
+<td>-f</td>
+<td>强迫打开特殊文件，比如外围设备代号、目录和二进制文件。</td>
+</tr>
+<tr>
+<td>-s</td>
+<td>显示连续空行为一行。</td>
+</tr>
+<tr>
+<td>-b &lt;缓冲区大小&gt;</td>
+<td>设置缓冲区的大小。</td>
+</tr>
+<tr>
+<td>-o &lt;文件名&gt;</td>
+<td>将 less 输出的内容保存到指定文件中。</td>
+</tr>
+<tr>
+<td>-x &lt;数字&gt;</td>
+<td>将【Tab】键显示为规定的数字空格。</td>
+</tr>
+</tbody>
+</table>
+<p>在使用 less 命令查看文件内容的过程中，和 more 命令一样，也会进入交互界面，因此需要读者掌握一些常用的交互指令，如表所示。</p>
+<ul>
+<li><code>空格</code> 向下滚屏翻页</li>
+<li><code>b</code> 向上滚屏翻页</li>
+<li><code>/</code> 进入查找模式，比如<code>/1111</code>将查找1111字样</li>
+<li><code>q</code> 退出less</li>
+<li><code>g</code> 到开头</li>
+<li><code>G</code> 去结尾</li>
+<li><code>j</code> 向下滚动</li>
+<li><code>k</code> 向上滚动，这两个按键和vim的作用非常像</li>
+</ul>
+<p>【例 1】使用 less 命令查看 /boot/grub/grub.cfg 文件中的内容。</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>可以看到，less 在屏幕底部显示一个冒号（：），等待用户输入命令，比如说，用户想向下翻一页，可以按空格键；如果想向上翻一页，可以按 b 键。</p>
+<h2> 12.echo 输出内容到控制台</h2>
+<p>echo 输出内容到控制台</p>
+<p><strong>基本语法</strong></p>
+<p>echo [选项] [输出内容]</p>
+<p><strong>选项：</strong></p>
+<ul>
+<li>-e： 支持反斜线控制的字符转换</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>控制字符</th>
+<th>作用</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>\</td>
+<td>输出\本身</td>
+</tr>
+<tr>
+<td>\n</td>
+<td>换行符</td>
+</tr>
+<tr>
+<td>\t</td>
+<td>制表符，也就是 Tab</td>
+</tr>
+</tbody>
+</table>
+<p><strong>案例实操</strong></p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 13.head 显示文件头部内容</h2>
+<p>取出文件前面几行</p>
+<p>语法：</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>选项与参数：</p>
+<ul>
+<li>-n ：后面接数字，代表显示几行的意思</li>
+</ul>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>默认的情况中，显示前面 10 行！若要显示前 20 行，就得要这样：</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 14.tail 输出文件尾部内容</h2>
+<p>取出文件后面几行</p>
+<p>语法：</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>选项与参数：</p>
+<ul>
+<li>-n ：后面接数字，代表显示几行的意思</li>
+<li>-f ：表示持续侦测后面所接的档名，要等到按下[ctrl]-c才会结束tail的侦测</li>
+</ul>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>对于部分程序员来说，<code>tail -f</code>或许是最常用的命令之一。它可以在控制终端，实时监控文件的变化，来看一些滚动日志。比如查看nginx或者tomcat日志等等。</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>这条命令会显示文件的最后 10 行内容，而且光标不会退出命令，每隔一秒会检查一下文件是否增加新的内容，如果增加就追加到原来的输出结果后面并显示。因此，这时如果向文件中追加一些数据（需要开启一个新终端）：</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>那么，在原始的正在监听的终端中，会看到如下信息：</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>如果想终止输出，按【Ctrl+c】键中断 tail 命令即可。</p>
+<p>通常情况下，日志滚动的过快，依然会造成一些困扰，需要配合grep命令达到过滤效果。</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>对于tail命令来说，还有一个大写的参数<code>F</code>。这个参数，能够监控到重新创建的文件。比如像一些log4j等日志是按天滚动的，<code>tail -f</code>无法监控到这种变化。</p>
+</blockquote>
+<h2> 15.&gt; 输出重定向和 &gt;&gt; 追加</h2>
+<p><strong>1）基本语法</strong></p>
+<p>（1）ls -l &gt; 文件 （功能描述：列表的内容写入文件 a.txt 中（覆盖写））</p>
+<p>（2）ls -al &gt;&gt; 文件 （功能描述：列表的内容追加到文件 aa.txt 的末尾）</p>
+<p>（3）cat 文件 1 &gt; 文件 2 （功能描述：将文件 1 的内容覆盖到文件 2）
+cat 文件1 文件2 &gt; 文件3（功能描述：将文件1 和 2的内容合并后输出到文件3中。）</p>
+<p>（4）echo “内容” &gt;&gt; 文件</p>
+<p><strong>2）案例实操</strong></p>
+<p>（1）将 ls 查看信息写入到文件中</p>
+<p><code>[root@hadoop101 ~]# ls -l&gt;houge.txt</code></p>
+<p>（2）将 ls 查看信息追加到文件中</p>
+<p><code>[root@hadoop101 ~]# ls -l&gt;&gt;houge.txt </code></p>
+<p>（3）采用 echo 将 hello 单词追加到文件中</p>
+<p><code>[root@hadoop101 ~]# echo hello&gt;&gt;houge.txt</code></p>
+<p>（4）将文件 file1.txt 和 file2.txt 的内容合并后输出到文件 file3.txt 中。</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 16.history 查看已经执行过历史命令</h2>
+<p><strong>1）基本语法</strong></p>
+<p>history （功能描述：查看已经执行过历史命令）</p>
+<p><strong>2）案例实操</strong></p>
+<p>（1）查看已经执行过的历史命令</p>
+<p><code>[root@hadoop101 test1]# history</code></p>
+<p>（2）显示最近3条命令历史</p>
+<p><code>histroy 3</code></p>
+<p>（3）清除历史记录</p>
+<p><code>history -c</code></p>
+<h2> 17.ln软链接</h2>
+<p>软链接也称为符号链接，类似于 windows 里的快捷方式，有自己的数据块，主要存放 了链接其他文件的路径。</p>
+<p>1）基本语法</p>
+<p><code>	ln -s [原文件或目录] [软链接名] </code>（功能描述：给原文件创建一个软链接）</p>
+<p>2）经验技巧</p>
+<p>​	删除软链接： rm -rf 软链接名，而不是 <code>rm -rf 软链接名/</code></p>
+<p>​	<strong>如果使用 rm -rf 软链接名/ 删除，会把软链接对应的真实目录下内容删掉</strong></p>
+<p>​	查询：通过 ll 就可以查看，列表属性第 1 位是 l，尾部会有位置指向。</p>
+<p>3）案例实操</p>
+<p>​	（1）创建软连接</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>​	（2）删除软连接(注意不要写最后的/)</p>
+<p>​	<code>[root@hadoop101 ~]# rm -rf houzi</code></p>
+<p>​	（3）进入软连接实际物理路径</p>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h2> 18.总结</h2>
+<h3> 18.1 文件剪贴删除复制重名等</h3>
+<ul>
+<li>pwd：Print Working Directory，显示当前工作目录的绝对路径。</li>
+<li>ls：-a：显示当前目录所有的文件和目录，包括隐藏的；
+<ul>
+<li>-l：以列表的方式显示信息。</li>
+</ul>
+</li>
+<li>cd：cd ~：回到自己的家目录；cd …：回到当前目录的上一级目录。</li>
+<li>mkdir：创建目录；-p：创建多级目录。</li>
+<li>rmdir：删除空目录。rmdir不能删除非空的目录。如果需要删除非空的目录，需要使用rm -rf。</li>
+<li>cp：拷贝文件到指定目录；
+<ul>
+<li>-r：递归复制整个文件夹。强制覆盖不提示的方法：</li>
+<li>cp命令改为\cp</li>
+</ul>
+</li>
+<li>rm：移除文件或目录；
+<ul>
+<li>-r：递归删除整个文件夹；</li>
+<li>-f：强制删除不提示。</li>
+</ul>
+</li>
+<li>mv：移动文件与目录或重命名，两种功能！</li>
+<li>touch：创建空文件。可以一次性创建多个文件</li>
+<li>ln 给文件创建一个软连接
+<ul>
+<li>用法:ln -s [源文件或目录][软连接名]</li>
+</ul>
+</li>
+</ul>
+<h3> 18.2 文件查看</h3>
+<ul>
+<li>cat：查看文件内容。只能浏览文件，而不能修改文件。
+<ul>
+<li>-n：显示行号。</li>
+<li>结尾加上 | more：分页显示，不会全部一下显示完。</li>
+</ul>
+</li>
+<li>more：是一个基于VI编辑器的文本过滤器，它以全屏幕的方式按页显示文本文件的内容。more还内置了很多快捷键：
+<ul>
+<li>空白键（Space）：向下翻一页</li>
+<li>Enter：向下翻一行</li>
+<li>q：立刻离开more，不再显示该文件内容</li>
+<li>Ctrl + F：向下滚动一屏</li>
+<li>Ctrl + B：返回上一屏</li>
+<li>= :输出当前行的行号</li>
+<li>:f 输出文件名和当前行的行号</li>
+</ul>
+</li>
+<li>less：用来分屏查看文件内容，与more相似，但是更强大，支持各种显示终端。less指令在显示文件内容时，并不是一次将整个文件加载之后才显示，而是根据显示需要加载内容。对于显示大型文件具有较高的效率。</li>
+<li>head：显示文件的开头部分。-n 5：看前面5行内容。</li>
+<li>tail：输出文件中尾部的内容。
+<ul>
+<li>-n 5：看后面5行内容。</li>
+<li>-f：时事追踪该文档的所有更新</li>
+</ul>
+</li>
+<li>&gt;指令：输出重定向。如果不存在会创建文件，否则会将原来的文件内容覆盖。</li>
+<li>&gt;&gt;指令：追加。如果不存在会创建文件，否则不会覆盖原来的文件内容，而是追加到文件的尾部。</li>
+<li>echo：输出内容到控制台。</li>
+<li>history：查看历史指令</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://i0.hdslb.com/bfs/album/0b901b1573479aada8d856c091084281de5c1b7b.png" type="image/png"/>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-5b2ca300","path":"/tool/efficiency/software/","title":"Software","lang":"zh-CN","frontmatter":{"title":"Software","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

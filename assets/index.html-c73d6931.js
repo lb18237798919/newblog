@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-2d582078","path":"/professional_knowledge/software_engineer/","title":"Software Engineer","lang":"zh-CN","frontmatter":{"title":"Software Engineer","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

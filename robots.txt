@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://lb18237798919.github.io/newblog/myblog/sitemap.xml
