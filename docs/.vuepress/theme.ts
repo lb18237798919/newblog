@@ -5,12 +5,12 @@ import sidebar from './sidebar'
 
 export default hopeTheme({
   // 主题选项：https://theme-hope.vuejs.press/zh/config/theme/layout.html
-  hostname: 'https://lb18237798919.github.io/newblog',
+  // hostname: 'https://lb18237798919.github.io/newblog',
 
-  author: {
-    name: 'lb',
-    url: 'https://lb18237798919.github.io/newblog',
-  },
+  // author: {
+  //   name: 'lb',
+  //   url: 'https://lb18237798919.github.io/newblog',
+  // },
 
   iconAssets: 'iconfont',
   logo: '/logo.png',
@@ -26,17 +26,17 @@ export default hopeTheme({
   darkmode: 'toggle',
   themeColor: false,
 
-  // 默认为 GitHub. 同时也可以是一个完整的 URL
-  repo: 'lb18237798919/newblog',
-  // 编辑此页的地址设置
-  docsRepo: 'https://github.com/lb18237798919/newblog',
-  docsBranch: 'main',
-  docsDir: 'docs',
-  editLinkPattern: ':repo/edit/:branch/:path',
-  // 自定义仓库链接文字。默认从 `repo` 中自动推断为 "GitHub" / "GitLab" / "Gitee" / "Bitbucket" 其中之一，或是 "Source"。
-  repoLabel: 'GitHub',
-  // 是否在导航栏内显示仓库链接，默认为 `true`
-  repoDisplay: true,
+  // // 默认为 GitHub. 同时也可以是一个完整的 URL
+  // repo: 'lb18237798919/newblog',
+  // // 编辑此页的地址设置
+  // docsRepo: 'https://github.com/lb18237798919/newblog',
+  // docsBranch: 'main',
+  // docsDir: 'docs',
+  // editLinkPattern: ':repo/edit/:branch/:path',
+  // // 自定义仓库链接文字。默认从 `repo` 中自动推断为 "GitHub" / "GitLab" / "Gitee" / "Bitbucket" 其中之一，或是 "Source"。
+  // repoLabel: 'GitHub',
+  // // 是否在导航栏内显示仓库链接，默认为 `true`
+  // repoDisplay: true,
 
   // navbar
   navbar: navbar,
