@@ -5,7 +5,7 @@ import sidebar from './sidebar'
 
 export default hopeTheme({
   // 主题选项：https://theme-hope.vuejs.press/zh/config/theme/layout.html
-  // hostname: 'https://lb18237798919.github.io/newblog',
+  hostname: 'https://lb18237798919.github.io/newblog',
 
   // author: {
   //   name: 'lb',
