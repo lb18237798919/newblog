@@ -6,8 +6,8 @@
     <link>https://lb18237798919.github.io/newblog/myblog/</link>
     <description>开源工具、效率方法的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Dec 2024 09:50:25 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Dec 2024 09:50:25 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Dec 2024 10:00:03 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Dec 2024 10:00:03 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>樱桃</category>
@@ -20,10 +20,10 @@
       <link>https://lb18237798919.github.io/newblog/myblog/intro.html</link>
       <guid>https://lb18237798919.github.io/newblog/myblog/intro.html</guid>
       <source url="https://lb18237798919.github.io/newblog/myblog/rss.xml">介绍页</source>
-      <description>介绍页 将你的个人介绍和档案放置在此处。</description>
+      <description>介绍页 欢迎来到我的博客</description>
       <pubDate>Mon, 02 Dec 2024 08:17:30 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 介绍页</h1>
-<p>将你的个人介绍和档案放置在此处。</p>
+<p>欢迎来到我的博客</p>
 ]]></content:encoded>
       <enclosure url="https://lb18237798919.github.io/newblog/myblog/assets/images/cover3.jpg" type="image/jpeg"/>
     </item>
