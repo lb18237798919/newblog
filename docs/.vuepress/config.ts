@@ -37,13 +37,13 @@ export default defineUserConfig({
     //   appId: 'M4EXXEZIEG',
     //   apiKey: 'fd8891a9c4cc21e0ef4f11bf44f7a11e',
     // }),
-    docsearchPlugin({
-      appId: 'B1SZXOAN50',
-      apiKey: '3068368ebb2ca88821ae37fa2b2813a0',
-      indexName: 'lb',
-      placeholder: '搜索文档',
-      translations: { button: { buttonText: '搜索文档' } },
-    }),
+    // docsearchPlugin({
+    //   appId: 'B1SZXOAN50',
+    //   apiKey: '3068368ebb2ca88821ae37fa2b2813a0',
+    //   indexName: 'lb',
+    //   placeholder: '搜索文档',
+    //   translations: { button: { buttonText: '搜索文档' } },
+    // }),
     sitemapPlugin({
       hostname: 'https://lb18237798919.github.io/newblog',
     }),
